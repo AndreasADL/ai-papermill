@@ -1,0 +1,423 @@
+{
+  "_notes": [
+    "All records below were verified via OpenAlex, Semantic Scholar, and/or Crossref API responses (queried without a mailto parameter, per user instruction), plus one WebSearch used only to locate the correct title string for Dean & Kelly (2003), which was then independently confirmed against OpenAlex and Crossref.",
+    "'abstract_summary' fields are paraphrased characterizations produced by an LLM-assisted fetch of the API response, not verbatim abstracts. Full text was not read for any paper; do not treat these as primary-source quotes.",
+    "Every doi listed was returned by OpenAlex and/or Crossref. Three (Carlson 1985, Calonico/Cattaneo/Titiunik 2014 Econometrica, Lakens 2017) were spot-checked by fetching https://doi.org/<doi> directly and confirming a 302 redirect to the publisher landing page.",
+    "One work discussed in the review (Dean & Kelly 2003) has NO doi in OpenAlex or Crossref and is therefore EXCLUDED from this file and from references.bib, per the no-invented-citation rule. It is discussed in lit_review.md with an explicit note about its verification status (OpenAlex ID W2106724377, no DOI on record).",
+    "A dedicated search for season-of-birth x myopia literature did not surface a verifiable, on-topic API record; this is reported as a search gap in lit_review.md rather than filled with an unverified citation.",
+    "A dedicated search for an existing regression-discontinuity design at zodiac cusps, or a large-N test using Mercury/Venus/Mars sign rather than sun sign, returned zero relevant records — supporting (but not proving beyond the coverage of these three APIs) the novelty claim in idea.md."
+  ],
+  "papers": [
+    {
+      "area": "1. Prior empirical tests of astrology",
+      "title": "A double-blind test of astrology",
+      "authors": ["Shawn Carlson"],
+      "year": 1985,
+      "venue": "Nature",
+      "doi": "10.1038/318419a0",
+      "cited_by_count": 152,
+      "source_apis": ["OpenAlex", "Crossref"],
+      "doi_resolution_spot_checked": true,
+      "abstract_summary": "Double-blind test in which astrologers matched natal charts to CPI personality profiles for volunteer subjects; astrologers' match rate did not exceed chance, and their own pre-registered success criterion was not met."
+    },
+    {
+      "area": "1. Prior empirical tests of astrology",
+      "title": "Science Versus the Stars: A Double-Blind Test of the Validity of the NEO Five-Factor Inventory and Computer-Generated Astrological Natal Charts",
+      "authors": ["Alyssa Jayne Wyman", "Stuart Vyse"],
+      "year": 2008,
+      "venue": "The Journal of General Psychology",
+      "doi": "10.3200/genp.135.3.287-300",
+      "cited_by_count": 14,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Follow-up double-blind design pairing NEO-FFI personality profiles with computer-generated natal-chart interpretations; participants could not identify their own chart/profile pairing above chance."
+    },
+    {
+      "area": "1. Prior empirical tests of astrology",
+      "title": "The relationship between date of birth and individual differences in personality and general intelligence: A large-scale study",
+      "authors": ["Péter Hartmann", "Martin Reuter", "Helmuth Nyborg"],
+      "year": 2006,
+      "venue": "Personality and Individual Differences",
+      "doi": "10.1016/j.paid.2005.11.017",
+      "cited_by_count": 29,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Large Danish sample (N>14,000 per the idea.md brief, volume 40 issue 7, pp.1349-1362) testing sun-sign and other date-of-birth-derived astrological variables against Big Five personality and general-intelligence measures; reported null associations. Only the OpenAlex-indexed abstract/metadata was reviewed, not the full text."
+    },
+    {
+      "area": "1. Prior empirical tests of astrology",
+      "title": "Self-Concept in Terms of Astrological Sun-Sign Traits",
+      "authors": ["Jan J. F. van Rooij"],
+      "year": 1999,
+      "venue": "Psychological Reports",
+      "doi": "10.2466/pr0.1999.84.2.541",
+      "cited_by_count": 16,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "308 women and 114 men rated 96 astrology-derived personality traits as self-descriptive; sign-congruent self-description was found only among respondents with some astrological knowledge, supporting a self-attribution mechanism rather than a genuine sign effect."
+    },
+    {
+      "area": "1. Prior empirical tests of astrology",
+      "title": "Belief in Astrology Inventory: Development and Validation",
+      "authors": ["Eliseo Chico", "Urbano Lorenzo-Seva"],
+      "year": 2006,
+      "venue": "Psychological Reports",
+      "doi": "10.2466/pr0.99.3.851-863",
+      "cited_by_count": 10,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Development/validation of a Belief in Astrology Inventory in 743 Spanish psychology undergraduates; small but significant correlations between belief and extraversion, and higher belief among women."
+    },
+    {
+      "area": "1. Prior empirical tests of astrology",
+      "title": "Intelligence and Individual Differences in Astrological Belief",
+      "authors": ["Tobias Edwards", "Magdalena J. March", "Emily A. Willoughby", "Alexandros Giannelis"],
+      "year": 2025,
+      "venue": "Journal of Individual Differences",
+      "doi": "10.1027/1614-0001/a000434",
+      "cited_by_count": null,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Recent large-N study (N=8,553, US General Social Survey) finding intelligence is the largest (negative) predictor of belief in astrology, consistent with a 'superficial knowledge' hypothesis. Tests belief, not sign-trait accuracy."
+    },
+    {
+      "area": "1. Prior empirical tests of astrology",
+      "title": "Even the Stars Think That I Am Superior: Personality, Intelligence and Belief in Astrology",
+      "authors": ["Ida Andersson", "Julia Persson", "Petri Kajonius"],
+      "year": 2021,
+      "venue": "Personality and Individual Differences",
+      "doi": "10.1016/j.paid.2021.111389",
+      "cited_by_count": 25,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "N=264; narcissism was the strongest predictor of astrological belief, with an unexpected negative correlation between belief and intelligence measures. Tests belief, not sign-trait accuracy; modest sample size."
+    },
+    {
+      "area": "1. Prior empirical tests of astrology",
+      "title": "The validity of astrological predictions on marriage and divorce: a longitudinal analysis of Swedish register data",
+      "authors": ["Jonas Helgertz", "Kirk Scott"],
+      "year": 2020,
+      "venue": "Genus",
+      "doi": "10.1186/s41118-020-00103-5",
+      "cited_by_count": 10,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Full-population Swedish register data (1968-2001) testing whether astrologically 'compatible' sun-sign couples marry more often or divorce less; found no consistent supporting evidence. Notable as a genuine large-N (population-register) test with a bare-null report rather than an equivalence bound."
+    },
+    {
+      "area": "1. Prior empirical tests of astrology",
+      "title": "Are personality differences between twins predicted by astrology?",
+      "authors": ["Suitbert Ertel", "Geoffrey Dean"],
+      "year": 1996,
+      "venue": "Personality and Individual Differences",
+      "doi": "10.1016/0191-8869(96)00112-2",
+      "cited_by_count": null,
+      "source_apis": ["Crossref"],
+      "abstract_summary": "Precursor to the Dean & Kelly time-twins design: tests whether astrological birth-chart differences between twins correspond to personality differences. Only located via Crossref bibliographic search; abstract not reviewed."
+    },
+    {
+      "area": "2. Season-of-birth confound (psychiatric)",
+      "title": "A Systematic Review and Meta-analysis of Northern Hemisphere Season of Birth Studies in Schizophrenia",
+      "authors": ["G. Davies", "Joy Welham", "David Chant", "E. Fuller Torrey", "John J. McGrath"],
+      "year": 2003,
+      "venue": "Schizophrenia Bulletin",
+      "doi": "10.1093/oxfordjournals.schbul.a007030",
+      "cited_by_count": 405,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Meta-analysis of 27 Northern Hemisphere studies (126,196 patients vs 86.6M general-population births); pooled OR = 1.07 (95% CI 1.05-1.08) for winter/spring vs summer/autumn birth; effect size correlates with latitude (r=0.271, p<.005); ~3.3% attributable risk."
+    },
+    {
+      "area": "2. Season-of-birth confound (psychiatric)",
+      "title": "Season of birth and schizophrenia: a systematic review and meta-analysis of data from the Southern Hemisphere",
+      "authors": ["John J. McGrath", "Joy Welham"],
+      "year": 1999,
+      "venue": "Schizophrenia Research",
+      "doi": "10.1016/s0920-9964(98)00139-x",
+      "cited_by_count": 134,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Southern Hemisphere companion meta-analysis; broadly consistent seasonal excess pattern (mirrored calendar), supporting a biological/seasonal rather than calendar-artifact explanation."
+    },
+    {
+      "area": "2. Season-of-birth confound (psychiatric)",
+      "title": "Effects of Family History and Place and Season of Birth on the Risk of Schizophrenia",
+      "authors": ["Preben Bo Mortensen", "Carsten Bøcker Pedersen", "Tine Westergaard", "Jan Wohlfahrt", "Henrik Ewald", "Ole Mors", "Per Kragh Andersen", "Mads Melbye"],
+      "year": 1999,
+      "venue": "New England Journal of Medicine",
+      "doi": "10.1056/nejm199902253400803",
+      "cited_by_count": 830,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Danish population register (1.75M persons, 2,669 schizophrenia cases); risk highest for Feb-Mar births, lowest Aug-Sep; effect independent of family history; ~5.5% population-attributable risk for season of birth."
+    },
+    {
+      "area": "2. Season-of-birth confound (relative age / sport)",
+      "title": "Relative Age Effects Across and Within Female Sport Contexts: A Systematic Review and Meta-Analysis",
+      "authors": ["K. L. Smith", "P. L. Weir", "K. Till", "M. Romann", "S. Cobley"],
+      "year": 2018,
+      "venue": "Sports Medicine",
+      "doi": "10.1007/s40279-018-0890-8",
+      "cited_by_count": 207,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Systematic review/meta-analysis of relative-age effects (birth-quarter selection skew) across female sport contexts; magnitude varies by sport-specific selection mechanisms."
+    },
+    {
+      "area": "2. Season-of-birth confound (relative age / sport)",
+      "title": "The Relative Age Effect in Selection to International Team Matches in Norwegian Handball",
+      "authors": ["C. T. Bjørndal", "L. S. Luteberget", "K. Till", "S. Holm"],
+      "year": 2018,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0209288",
+      "cited_by_count": 35,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "657 Norwegian handball players; relative age effect favors relatively older athletes at youth and senior international selection, with birth-quartile odds ratios ranging 1.9-8.3."
+    },
+    {
+      "area": "2. Season-of-birth confound (relative age / education)",
+      "title": "The Benefits of Delayed Primary School Enrollment: Discontinuity Estimates Using Exact Birth Dates",
+      "authors": ["Patrick J. McEwan", "Joseph S. Shapiro"],
+      "year": 2008,
+      "venue": "Journal of Human Resources",
+      "doi": "10.1353/jhr.2008.0021",
+      "cited_by_count": 158,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "RDD on exact birth dates around Chilean school-entry cutoff; one year of delayed enrollment lowers first-grade repetition by ~2pp and raises 4th/8th-grade test scores by >0.3 SD. Directly relevant as a precedent for exact-birth-date RDD design, distinct from our zodiac application."
+    },
+    {
+      "area": "2. Season-of-birth confound (relative age / education)",
+      "title": "Early School Exposure, Test Scores, and Noncognitive Outcomes",
+      "authors": ["Thomas Cornelissen", "Christian Dustmann"],
+      "year": 2019,
+      "venue": "American Economic Journal: Economic Policy",
+      "doi": "10.1257/pol.20170641",
+      "cited_by_count": 69,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "English school-entry-rule RDD using exact birth dates; cognitive benefits at age 7 (larger for disadvantaged pupils) mostly dissipate by age 11, while noncognitive benefits persist."
+    },
+    {
+      "area": "2. Season-of-birth confound (height, education, puberty)",
+      "title": "Season of birth is associated with birth weight, pubertal timing, adult body size and educational attainment: a UK Biobank study",
+      "authors": ["Felix R. Day", "Nita G. Forouhi", "Ken K. Ong", "John R. B. Perry"],
+      "year": 2015,
+      "venue": "Heliyon",
+      "doi": "10.1016/j.heliyon.2015.e00031",
+      "cited_by_count": 63,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "~450,000 UK Biobank participants; summer-born adults taller than winter-born by ~6.5mm (P=8x10^-9); season of birth also associated with birth weight, pubertal timing, and educational attainment, independent of the height effect. Single largest, most directly relevant season-of-birth confound paper found (multiple outcomes, huge N, smooth-in-birth-date pattern)."
+    },
+    {
+      "area": "2. Season-of-birth confound (longevity)",
+      "title": "Season of Birth and Exceptional Longevity: Comparative Study of American Centenarians, Their Siblings, and Spouses",
+      "authors": ["Leonid A. Gavrilov", "Natalia S. Gavrilova"],
+      "year": 2011,
+      "venue": "Journal of Aging Research",
+      "doi": "10.4061/2011/104616",
+      "cited_by_count": 51,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "1,574 validated US centenarians (b.1880-1895) vs 10,885 shorter-lived siblings and 1,083 spouses; family-based conditional logistic regression; Sept-Nov birth associated with higher odds of reaching age 100 vs March birth; similar pattern in spouses, consistent with early-life/seasonal programming rather than genetics."
+    },
+    {
+      "area": "3. Mercury retrograde / financial markets",
+      "title": "Cultural Beliefs and Equity Prices: Evidence from Astrological Belief in Mercury Retrograde",
+      "authors": ["Yanling Qi", "Hang Wang", "Bohui Zhang"],
+      "year": 2022,
+      "venue": "SSRN Electronic Journal (preprint, not yet peer-reviewed)",
+      "doi": "10.2139/ssrn.4074620",
+      "cited_by_count": 3,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Tests Mercury-retrograde belief effects on equity prices/trading behavior via cultural-belief channel. Full abstract text not retrievable through the API metadata; status noted explicitly as an unreviewed preprint, not a published peer-reviewed result."
+    },
+    {
+      "area": "3. Mercury retrograde / financial markets",
+      "title": "Finansal Astroloji: Merkür Retrosu Finansal Piyasaları Etkiler Mi? [Financial Astrology: Does Mercury Retrograde Affect Financial Markets?]",
+      "authors": ["Fatih Konak", "Esra Özkahveci"],
+      "year": 2022,
+      "venue": "Kahramanmaraş Sütçü İmam University Journal of Social Sciences",
+      "doi": "10.33437/ksusbd.1133074",
+      "cited_by_count": 0,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "EGARCH volatility modeling of Mercury retrograde windows (2008-2021) on BRICS + Turkish indices; mixed/weak results (positive for China/South Africa, non-significant elsewhere); BIST 100 consistent with weak-form efficiency, i.e. no significant anomaly. No permutation/exact-null approach used."
+    },
+    {
+      "area": "3. Mercury retrograde / financial markets (methodological parallel)",
+      "title": "Are investors moonstruck? Lunar phases and stock returns",
+      "authors": ["Kathy Yuan", "Lu Zheng", "Qiaoqiao Zhu"],
+      "year": 2006,
+      "venue": "Journal of Empirical Finance",
+      "doi": "10.1016/j.jempfin.2005.06.001",
+      "cited_by_count": 284,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Full/new moon effects on stock returns across international markets via regression with standard controls; a methodologically comparable astronomical-calendar-anomaly test to Mercury retrograde, useful as a design template (regression + international replication), though not itself a permutation-based exact-null test."
+    },
+    {
+      "area": "3. Mercury retrograde / financial markets (methodological parallel)",
+      "title": "Are investors moonstruck? Further international evidence on lunar phases and stock returns",
+      "authors": ["Stephen P. Keef", "Mohammed Khaled"],
+      "year": 2010,
+      "venue": "Journal of Empirical Finance",
+      "doi": "10.1016/j.jempfin.2010.11.002",
+      "cited_by_count": 42,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Panel-data extension testing persistence of lunar-phase stock return effects internationally, controlling for GDP/demographic covariates."
+    },
+    {
+      "area": "4. RDD methodology",
+      "title": "Robust Nonparametric Confidence Intervals for Regression-Discontinuity Designs",
+      "authors": ["Sebastián Calonico", "Matias D. Cattaneo", "Rocío Titiunik"],
+      "year": 2014,
+      "venue": "Econometrica",
+      "doi": "10.3982/ecta11757",
+      "cited_by_count": 3105,
+      "source_apis": ["OpenAlex"],
+      "doi_resolution_spot_checked": true,
+      "abstract_summary": "Core methodology paper: standard bandwidth-selector-based RD confidence intervals under-cover; proposes bias-corrected estimators with robust standard errors for correct-coverage inference. Foundation of rdrobust."
+    },
+    {
+      "area": "4. RDD methodology",
+      "title": "Robust Data-Driven Inference in the Regression-Discontinuity Design",
+      "authors": ["Sebastián Calonico", "Matias D. Cattaneo", "Rocío Titiunik"],
+      "year": 2014,
+      "venue": "The Stata Journal",
+      "doi": "10.1177/1536867x1401400413",
+      "cited_by_count": 730,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Companion software paper introducing rdrobust, rdbwselect, and rdplot Stata commands implementing the bias-corrected RD inference procedure."
+    },
+    {
+      "area": "4. RDD methodology (manipulation/density tests)",
+      "title": "Manipulation of the running variable in the regression discontinuity design: A density test",
+      "authors": ["Justin McCrary"],
+      "year": 2008,
+      "venue": "Journal of Econometrics",
+      "doi": "10.1016/j.jeconom.2007.05.005",
+      "cited_by_count": 994,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Original density-based manipulation test for the running variable in RD designs; illustrated with US House election data (evidence of sorting in vote share, not electoral outcomes)."
+    },
+    {
+      "area": "4. RDD methodology (manipulation/density tests)",
+      "title": "Manipulation Testing Based on Density Discontinuity",
+      "authors": ["Matias D. Cattaneo", "Michael Jansson", "Xinwei Ma"],
+      "year": 2018,
+      "venue": "The Stata Journal",
+      "doi": "10.1177/1536867x1801800115",
+      "cited_by_count": 706,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Modern local-polynomial density-discontinuity manipulation test (rddensity/rdbwdensity), improving on McCrary (2008) by avoiding prebinning; directly applicable to testing whether birth dates cluster suspiciously near zodiac cutoffs."
+    },
+    {
+      "area": "4. RDD methodology (multi-cutoff)",
+      "title": "Interpreting Regression Discontinuity Designs with Multiple Cutoffs",
+      "authors": ["Matias D. Cattaneo", "Luke Keele", "Rocío Titiunik", "Gonzalo Vázquez-Baré"],
+      "year": 2016,
+      "venue": "The Journal of Politics",
+      "doi": "10.1086/686802",
+      "cited_by_count": 210,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Formal treatment of RD designs where the cutoff varies across units; derives the interpretation of the pooled treatment effect and shows naive score-normalization/pooling can waste information. Directly relevant to pooling our 12 zodiac cutoffs."
+    },
+    {
+      "area": "4. RDD methodology (multi-cutoff)",
+      "title": "A Practical Introduction to Regression Discontinuity Designs: Extensions",
+      "authors": ["Matias D. Cattaneo", "Nicolás Idrobo", "Rocío Titiunik"],
+      "year": 2023,
+      "venue": "arXiv preprint",
+      "doi": "10.48550/arxiv.2301.08958",
+      "cited_by_count": 51,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Practitioner-oriented extension guide covering multiple cutoffs and discrete running variables (our birth-date running variable is discrete/day-granular), complementing Cattaneo et al. (2016)."
+    },
+    {
+      "area": "4. RDD methodology (general guide)",
+      "title": "Regression Discontinuity Designs: A Guide to Practice",
+      "authors": ["Guido W. Imbens", "Thomas Lemieux"],
+      "year": 2007,
+      "venue": "National Bureau of Economic Research (working paper)",
+      "doi": "10.3386/w13039",
+      "cited_by_count": 889,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Widely used practitioner's guide to RD validity conditions, estimation, and interpretation."
+    },
+    {
+      "area": "5. Null-result inference (equivalence testing)",
+      "title": "Equivalence Tests: A Practical Primer for t Tests, Correlations, and Meta-Analyses",
+      "authors": ["Daniël Lakens"],
+      "year": 2017,
+      "venue": "Social Psychological and Personality Science",
+      "doi": "10.1177/1948550617697177",
+      "cited_by_count": 2201,
+      "source_apis": ["OpenAlex"],
+      "doi_resolution_spot_checked": true,
+      "abstract_summary": "Introduces the Two One-Sided Tests (TOST) procedure and smallest-effect-size-of-interest (SESOI) framework for rejecting the presence of effects large enough to matter, with practical R/spreadsheet tools."
+    },
+    {
+      "area": "5. Null-result inference (equivalence testing)",
+      "title": "Equivalence Testing for Psychological Research: A Tutorial",
+      "authors": ["Daniël Lakens", "Anne M. Scheel", "Peder Mortvedt Isager"],
+      "year": 2018,
+      "venue": "Advances in Methods and Practices in Psychological Science",
+      "doi": "10.1177/2515245918770963",
+      "cited_by_count": 1628,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Tutorial-level treatment of TOST + SESOI specification; argues researchers must be able to test for both presence and absence of an effect."
+    },
+    {
+      "area": "5. Null-result inference (equivalence + Bayes combined)",
+      "title": "Improving Inferences About Null Effects With Bayes Factors and Equivalence Tests",
+      "authors": ["Daniël Lakens", "Neil McLatchie", "Peder M. Isager", "Anne M. Scheel", "Zoltan Dienes"],
+      "year": 2018,
+      "venue": "The Journals of Gerontology: Series B",
+      "doi": "10.1093/geronb/gby065",
+      "cited_by_count": 295,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Argues equivalence testing and Bayes factors are complementary tools for evaluating null results against pre-specified boundaries; directly supports our dual TOST+BF inference framework."
+    },
+    {
+      "area": "5. Null-result inference (Bayes factor)",
+      "title": "Bayesian t tests for accepting and rejecting the null hypothesis",
+      "authors": ["Jeffrey N. Rouder", "Paul L. Speckman", "Dongchu Sun", "Richard D. Morey", "Geoffrey Iverson"],
+      "year": 2009,
+      "venue": "Psychonomic Bulletin & Review",
+      "doi": "10.3758/pbr.16.2.225",
+      "cited_by_count": 4009,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Foundational default Bayesian t-test (JZS Bayes factor) enabling symmetric evidence for/against the null, as opposed to p>.05 non-rejection."
+    },
+    {
+      "area": "5. Null-result inference (Bayes factor)",
+      "title": "Using Bayes to get the most out of non-significant results",
+      "authors": ["Zoltan Dienes"],
+      "year": 2014,
+      "venue": "Frontiers in Psychology",
+      "doi": "10.3389/fpsyg.2014.00781",
+      "cited_by_count": 2132,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Practical guidance distinguishing insensitive data from genuine evidence against a theory using Bayes factors."
+    },
+    {
+      "area": "5. Null-result inference (Bayes factor, prior sensitivity)",
+      "title": "Using Bayes factor hypothesis testing in neuroscience to establish evidence of absence",
+      "authors": ["Christian Keysers", "Valeria Gazzola", "Eric-Jan Wagenmakers"],
+      "year": 2020,
+      "venue": "Nature Neuroscience",
+      "doi": "10.1038/s41593-020-0660-4",
+      "cited_by_count": 719,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Applied Wagenmakers-school guidance (incl. prior sensitivity checks) for establishing evidence of absence with Bayes factors, aimed at practicing empirical researchers."
+    },
+    {
+      "area": "5. Null-result inference (design/power for BF)",
+      "title": "Bayes factor design analysis: Planning for compelling evidence",
+      "authors": ["Daniel J. Schad", "Michael Betancourt", "Shravan Vasishth"],
+      "year": 2017,
+      "venue": "Psychonomic Bulletin & Review",
+      "doi": "10.3758/s13423-017-1230-y",
+      "cited_by_count": 732,
+      "source_apis": ["OpenAlex"],
+      "abstract_summary": "Prospective design analysis for Bayes-factor studies: how to plan sample size/priors so the study is likely to yield compelling (rather than ambiguous) evidence either way."
+    }
+  ],
+  "verified_but_excluded_no_doi": [
+    {
+      "title": "Is astrology relevant to consciousness and psi?",
+      "authors": ["Geoffrey Dean", "Ivan W. Kelly"],
+      "year": 2003,
+      "venue": "Journal of Consciousness Studies, 10(6-7): 175-198",
+      "openalex_id": "https://openalex.org/W2106724377",
+      "cited_by_count": 24,
+      "doi": null,
+      "reason_excluded": "No DOI is present in the OpenAlex or Crossref record; per project rules a reference is only added to the formal bibliography if its DOI resolves. Existence, year, venue, and author names are confirmed by the OpenAlex record; the specific claims about the 'time twins' National Child Development Study design (110 variables at ages 11/16/23, sub-analysis by birth-time proximity down to 15 minutes) come from a WebSearch snippet (Skeptical Inquirer / secondary summaries), not from reading the primary source, and should be treated as provisional pending full-text access."
+    }
+  ]
+}

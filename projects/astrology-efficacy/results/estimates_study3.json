@@ -1,0 +1,162 @@
+{
+  "seed": 20260918,
+  "sesoi_d": 0.1,
+  "n_total": 75699,
+  "n_analysis": 39125,
+  "H3a": {
+    "test": "H3-a",
+    "estimate": 0.010068612792179781,
+    "se": 0.012418265859220207,
+    "ci_low": -0.014271188291891824,
+    "ci_high": 0.03440841387625139,
+    "z": 0.8107905649889211,
+    "p_two_sided": 0.4174859536606005,
+    "n": 39125,
+    "sesoi": 0.1,
+    "predicted_direction": 1,
+    "tost_p_tost": 2.2128045467849257e-13,
+    "tost_equivalent": true,
+    "tost_p_lower": 3.878969059680498e-19,
+    "tost_p_upper": 2.2128045467849257e-13,
+    "tost_sesoi": 0.1,
+    "equivalence_bound": 0.030494842431165778,
+    "bf01": 5.38023494232022,
+    "bf01_directional": 3.4277397806041434,
+    "bf01_label": "moderate evidence for the null",
+    "bf_sensitivity": {
+      "r=0.1": 1.4746909291690575,
+      "r=0.25": 2.333566883412644,
+      "r=0.5": 3.9573161208052907,
+      "r=0.707": 5.38023494232022,
+      "r=1.0": 7.443672746270983,
+      "r=1.25": 9.22626949325856,
+      "r=1.5": 11.019400512249721
+    },
+    "n_clusters": 6337,
+    "outcome": "sociability composite (SD units)"
+  },
+  "H3b": {
+    "test": "H3-b",
+    "estimate": -0.012361158573853321,
+    "se": 0.060571410804722975,
+    "ci_low": -0.13108112375111033,
+    "ci_high": 0.1063588066034037,
+    "z": -0.20407579103126117,
+    "p_two_sided": 0.8382942721849452,
+    "n": 5971,
+    "sesoi": 0.1,
+    "predicted_direction": 1,
+    "tost_p_tost": 0.07396693600861426,
+    "tost_equivalent": false,
+    "tost_p_lower": 0.07396693600861426,
+    "tost_p_upper": 0.031796708759486536,
+    "tost_sesoi": 0.1,
+    "equivalence_bound": 0.1119922633255695,
+    "bf01": 2.0564619450111516,
+    "bf01_directional": 2.3380111151195084,
+    "bf01_label": "data insensitive (not evidence of absence)",
+    "bf_sensitivity": {
+      "r=0.1": 1.1324461413627191,
+      "r=0.25": 1.3431962197575362,
+      "r=0.5": 1.7218779524895536,
+      "r=0.707": 2.0564619450111516,
+      "r=1.0": 2.5548943472023766,
+      "r=1.25": 2.997676807326786,
+      "r=1.5": 3.452532856705568
+    },
+    "n_clusters": 1153,
+    "belief_measure": "astrolgy (binary)",
+    "outcome": "sociability composite (SD units)"
+  },
+  "H3b_simple_slopes": {
+    "believers (read horoscopes)": {
+      "estimate": 0.00927215668108129,
+      "se": 0.043526024251432524,
+      "n": 2919,
+      "ci_low": -0.07603885085172646,
+      "ci_high": 0.09458316421388904
+    },
+    "non-believers": {
+      "estimate": 0.022045232445444117,
+      "se": 0.0430222187828286,
+      "n": 3052,
+      "ci_low": -0.062278316368899946,
+      "ci_high": 0.10636878125978819
+    }
+  },
+  "H3b_replication": {
+    "test": "H3-b-replication",
+    "estimate": 0.048670906462696235,
+    "se": 0.05161529927054267,
+    "ci_low": -0.05249508010756739,
+    "ci_high": 0.14983689303295986,
+    "z": 0.9429550375671885,
+    "p_two_sided": 0.3457039015073766,
+    "n": 5791,
+    "sesoi": 0.1,
+    "predicted_direction": 1,
+    "tost_p_tost": 0.16000069632870084,
+    "tost_equivalent": false,
+    "tost_p_lower": 0.001986074501527447,
+    "tost_p_upper": 0.16000069632870084,
+    "tost_sesoi": 0.1,
+    "equivalence_bound": 0.13357051867403402,
+    "bf01": 1.725158043093512,
+    "bf01_directional": 1.1190563678659116,
+    "bf01_label": "data insensitive (not evidence of absence)",
+    "bf_sensitivity": {
+      "r=0.1": 1.0843948803145067,
+      "r=0.25": 1.2245473769610116,
+      "r=0.5": 1.4868554057223444,
+      "r=0.707": 1.725158043093512,
+      "r=1.0": 2.0869079310431276,
+      "r=1.25": 2.4127082110868234,
+      "r=1.5": 2.750349862851855
+    },
+    "n_clusters": 1148,
+    "belief_measure": "astrosci (ordinal 1-3)"
+  },
+  "robustness": {
+    "H3a_wtssall": {
+      "estimate": -0.004268604707429129,
+      "se": 0.011955449450229711,
+      "n": 34470
+    },
+    "H3a_unweighted": {
+      "estimate": 0.009966193607751599,
+      "se": 0.010138751880336215,
+      "n": 39125
+    },
+    "H3a_on_moderation_subsample": {
+      "estimate": 0.01573648295505082,
+      "se": 0.031057464945762135,
+      "n": 5971
+    },
+    "H3a_complete_items_only": {
+      "estimate": 0.009844373633304095,
+      "se": 0.01245283858901801,
+      "n": 38890,
+      "tost_equivalent": true
+    },
+    "H3b_complete_items_only": {
+      "estimate": -0.017921826899421102,
+      "se": 0.06045177028345442,
+      "n": 5962
+    }
+  },
+  "exploratory": {
+    "water_sign_happiness": {
+      "estimate": 0.00016526017270481602,
+      "se": 0.007313752660973641,
+      "n": 59871,
+      "p": 0.98197268532715
+    },
+    "omnibus_12_signs": {
+      "F": 0.8532196940546989,
+      "p": 0.5863889824884537,
+      "df_num": 11,
+      "n": 39125
+    },
+    "per_sign_csv": "study3_per_sign.csv"
+  }
+}

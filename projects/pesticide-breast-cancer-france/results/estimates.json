@@ -1,0 +1,184 @@
+{
+  "h1_primary_model": {
+    "formula": "mortality_rate_std ~ log_pesticide_intensity + poverty_rate + log_pop_density",
+    "n": 91,
+    "cov_type": "HC3",
+    "predictors": {
+      "Intercept": {
+        "coef": 13.970231764296143,
+        "se": 1.82540470369274,
+        "t": 7.65322437048331,
+        "p": 1.9600148836988664e-14,
+        "ci_low": 10.392504287848363,
+        "ci_high": 17.54795924074392
+      },
+      "log_pesticide_intensity": {
+        "coef": 0.15846429097347126,
+        "se": 0.14511769081288375,
+        "t": 1.091970869201583,
+        "p": 0.2748459055754008,
+        "ci_low": -0.1259611565394,
+        "ci_high": 0.4428897384863425,
+        "standardized_beta": {
+          "beta": 0.11768016756943837,
+          "ci_low": -0.09354239947521216,
+          "ci_high": 0.3289027346140889
+        },
+        "partial_correlation": {
+          "r": 0.10071732361928122,
+          "ci_low": -0.10984338189458541,
+          "ci_high": 0.30262644931911814,
+          "p": 0.3476670423369539,
+          "n": 91
+        },
+        "significant_at_alpha05": false,
+        "direction": "positive"
+      },
+      "poverty_rate": {
+        "coef": 0.07099880704224158,
+        "se": 0.07351855858008845,
+        "t": 0.9657263201766675,
+        "p": 0.33418114552867917,
+        "ci_low": -0.07309491997002994,
+        "ci_high": 0.21509253405451312
+      },
+      "log_pop_density": {
+        "coef": 0.06739947185458961,
+        "se": 0.2522890337433409,
+        "t": 0.26715180939317623,
+        "p": 0.7893522785363418,
+        "ci_low": -0.42707794797676896,
+        "ci_high": 0.5618768916859482
+      }
+    },
+    "model_fit": {
+      "r_squared": 0.0440286770281747,
+      "adj_r_squared": 0.011064148649835848,
+      "f_stat": 1.055935439485885,
+      "f_pvalue": 0.3721248780896333,
+      "df_model": 3,
+      "df_resid": 87
+    },
+    "mde_cleared": false
+  },
+  "power": {
+    "df_resid": 87,
+    "alpha": 0.05,
+    "target_power": 0.8,
+    "mde_cohens_f2": 0.09017746336529094,
+    "mde_partial_r": 0.2876076327028666,
+    "mde_partial_r2": 0.08271815038894702
+  },
+  "diagnostics": {
+    "linearity_figure": "results\\figures\\diagnostic_partial_residual.png",
+    "breusch_pagan": {
+      "lm_stat": 17.46437005309193,
+      "lm_p": 0.0005671435952150642,
+      "f_stat": 6.88736510322043,
+      "f_p": 0.000324036781979174,
+      "heteroskedastic_at_alpha05": true
+    },
+    "shapiro_wilk": {
+      "stat": 0.9447840000776084,
+      "p": 0.0007494690961889857,
+      "nonnormal_at_alpha05": true
+    },
+    "qq_figure": "results\\figures\\diagnostic_qq.png",
+    "vif": {
+      "log_pesticide_intensity": 1.413596194420669,
+      "poverty_rate": 1.0857192359633434,
+      "log_pop_density": 1.3665186916137113
+    },
+    "vif_flag_gt5": {},
+    "cooks_distance": {
+      "threshold_4_over_n": 0.04395604395604396,
+      "n_flagged": 5,
+      "flagged_departments": [
+        {
+          "dept": "59",
+          "dept_name": "Nord"
+        },
+        {
+          "dept": "66",
+          "dept_name": "Pyrénées-Orientales"
+        },
+        {
+          "dept": "83",
+          "dept_name": "Var"
+        },
+        {
+          "dept": "06",
+          "dept_name": "Alpes-Maritimes"
+        },
+        {
+          "dept": "62",
+          "dept_name": "Pas-de-Calais"
+        }
+      ],
+      "max_cooks_d": 0.2748770144969753
+    },
+    "sensitivity_excl_influential": {
+      "n": 86,
+      "excluded_n": 5,
+      "log_pesticide_intensity": {
+        "coef": 0.27014242968342855,
+        "se": 0.11984748206926474,
+        "t": 2.254051774965971,
+        "p": 0.024192910999603058,
+        "ci_low": 0.03524568118985977,
+        "ci_high": 0.5050391781769974
+      }
+    },
+    "robust_regression_huber": {
+      "coef": 0.19135307030454896,
+      "se": 0.14744799462650454,
+      "t": 1.2977665161825962,
+      "p": 0.1943675788868,
+      "ci_low": -0.09763968875605539,
+      "ci_high": 0.4803458293651533
+    },
+    "spearman_raw_bivariate": {
+      "rho": 0.1850613154960981,
+      "p": 0.07905915927180429
+    },
+    "moran_i": {
+      "n": 91,
+      "n_islands": 1,
+      "island_depts": [
+        "20"
+      ],
+      "I": 0.8292818960338406,
+      "expected_I": -0.011111111111111112,
+      "z_norm": 12.450809825136671,
+      "p_norm": 1.3843334722025198e-35,
+      "p_sim": 0.001,
+      "significant_p_sim": true
+    },
+    "spatial_models": {
+      "spatial_lag": {
+        "pesticide_coef": {
+          "coef": 0.11193502946421659,
+          "se": 0.1309786486653563,
+          "z": 0.8546051635500136,
+          "p": 0.39276976807359254,
+          "ci_low": -0.1447831219198818,
+          "ci_high": 0.36865318084831494
+        },
+        "rho": 0.3839604784903083,
+        "pseudo_r2": 0.3935040329743963
+      },
+      "spatial_error": {
+        "pesticide_coef": {
+          "coef": 0.08042786490463438,
+          "se": 0.05527519100654867,
+          "z": 1.4550445405987973,
+          "p": 0.14565693113423103,
+          "ci_low": -0.027911509468201007,
+          "ci_high": 0.18876723927746977
+        },
+        "lambda": 0.9694232574071897,
+        "pseudo_r2": 0.02069556056176412
+      }
+    }
+  }
+}

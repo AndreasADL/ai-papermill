@@ -1,0 +1,1157 @@
+planet,occ_qid,label,matched_on
+mars,Q2098813,Armourer (plate),armourer
+mars,Q1685165,armourer,armourer
+mars,Q160131,baker,baker
+mars,Q124524861,baker's apprentice,baker
+mars,Q1715744,lebkuchen baker,baker
+mars,Q126869066,master baker,baker
+mars,Q7634719,sugar-baker,baker
+mars,Q10547741,artistic blacksmith,blacksmith
+mars,Q1639825,blacksmith,blacksmith
+mars,Q11777629,blacksmith artist,blacksmith
+mars,Q115766051,blacksmith journeyman,blacksmith
+mars,Q54365910,Vegetarian butcher,butcher
+mars,Q329737,butcher,butcher
+mars,Q1933839,Carpenter,carpenter
+mars,Q11871806,carpenter,carpenter
+mars,Q154549,carpenter,carpenter
+mars,Q2673080,city carpenter,carpenter
+mars,Q5753365,marine carpenter,carpenter
+mars,Q108821723,master carpenter,carpenter
+mars,Q2235358,ship carpenter,carpenter
+mars,Q5045700,stage carpenter,carpenter
+mars,Q5100722,Chinese chef,chef
+mars,Q119455660,agent voyer en chef,chef
+mars,Q3310583,celebrity chef,chef
+mars,Q3499072,chef,chef
+mars,Q104050235,conservateur en chef du patrimoine,chef
+mars,Q10514696,executive chef,chef
+mars,Q120728408,master chef,chef
+mars,Q1176211,master chef (Hungary),chef
+mars,Q1191511,pastry chef,chef
+mars,Q1932239,personal chef,chef
+mars,Q131746398,ramen chef,chef
+mars,Q112052329,royal chef,chef
+mars,Q3352171,sous-chef,chef
+mars,Q10689386,television celebrity chef,chef
+mars,Q7574259,Speaker of the Cook Islands Parliament,cook
+mars,Q1440839,chief cook,cook
+mars,Q156839,cook,cook
+mars,Q2276446,domestic worker cook,cook
+mars,Q30921604,licensed cook,cook
+mars,Q25685289,school cook,cook
+mars,Q133828630,ship's cook,cook
+mars,Q139715286,alpaca farmer,farmer
+mars,Q23666894,dairy farmer,farmer
+mars,Q131512,farmer,farmer
+mars,Q107643203,fur farmer,farmer
+mars,Q18412106,gentleman farmer,farmer
+mars,Q119772215,goat farmer,farmer
+mars,Q60684920,hop farmer,farmer
+mars,Q84271380,livestock farmer,farmer
+mars,Q819420,mountain farmer,farmer
+mars,Q19883144,oyster farmer,farmer
+mars,Q2097811,pig farmer,farmer
+mars,Q119771968,poultry farmer,farmer
+mars,Q66316220,poultry farmer,farmer
+mars,Q124043237,sheep farmer,farmer
+mars,Q22981496,shellfish farmer,farmer
+mars,Q106580713,small farmer,farmer
+mars,Q54639972,tenant farmer,farmer
+mars,Q868069,tenant farmer,farmer
+mars,Q111686897,urban farmer,farmer
+mars,Q694579,farrier,farrier
+mars,Q1895303,forester,forester
+mars,Q92260389,foundry workers,foundry
+mars,Q65232083,iron foundry,foundry
+mars,Q860828,sculpture foundry,foundry
+mars,Q377688,type foundry,foundry
+mars,Q211423,goldsmith,goldsmith
+mars,Q65048785,goldsmith banker,goldsmith
+mars,Q120647652,journeyman goldsmith,goldsmith
+mars,Q1371796,gunsmith,gunsmith
+mars,Q1020410,master gunsmith,gunsmith
+mars,Q6073368,Ironworker,ironworker
+mars,Q3069732,ironworker,ironworker
+mars,Q9182297,amber jeweler,jeweler
+mars,Q109828300,court jeweler,jeweler
+mars,Q336221,jeweler,jeweler
+mars,Q12304731,building joiner,joiner
+mars,Q326358,joiner,joiner
+mars,Q1402046,Precision machinist,machinist
+mars,Q845252,The Machinist,machinist
+mars,Q196721,machinist,machinist
+mars,Q125827786,merchant marine machinist,machinist
+mars,Q105988729,ship machinist,machinist
+mars,Q12664711,Mason,mason
+mars,Q1924861,Decorative metalworker,metalworker
+mars,Q139592020,Metalworker,metalworker
+mars,Q15980591,metalworker,metalworker
+mars,Q135728405,sheet metalworker,metalworker
+mars,Q2267917,Gold Miner,miner
+mars,Q21468747,coal miner,miner
+mars,Q19691902,gold miner,miner
+mars,Q116203591,iron miner,miner
+mars,Q1936668,miner,miner
+mars,Q820037,miner,miner
+mars,Q2340797,quarryman,quarryman
+mars,Q5179781,cattle rancher,rancher
+mars,Q68716602,fighting bull rancher,rancher
+mars,Q1524582,rancher,rancher
+mars,Q2106711,shipbuilder,shipbuilder
+mars,Q120122854,retail silversmith,silversmith
+mars,Q2216340,silversmith,silversmith
+mars,Q123579973,gun smith,smith
+mars,Q328325,stonemason,stonemason
+mars,Q157798,watchmaker,watchmaker
+mars,Q836328,welder,welder
+mars,Q15977971,woodworker,woodworker
+mercury,Q16033003,Certified Accountant,accountant
+mercury,Q113320244,Certified Accountant in France,accountant
+mercury,Q2946927,Certified Management Accountant,accountant
+mercury,Q17232797,Certified Public Accountant in the United States,accountant
+mercury,Q112629248,Chartered Accountant,accountant
+mercury,Q1951229,Chartered Certified Accountant,accountant
+mercury,Q5086791,Chartered Cost Accountant,accountant
+mercury,Q5086848,Chartered Professional Accountant,accountant
+mercury,Q326653,accountant,accountant
+mercury,Q4672765,accountant General,accountant
+mercury,Q1056337,certified public accountant,accountant
+mercury,Q11392214,certified public accountant in Japan,accountant
+mercury,Q1108818,chartered accountant,accountant
+mercury,Q10783678,chief accountant,accountant
+mercury,Q138822000,financial accountant,accountant
+mercury,Q5468697,forensic accountant,accountant
+mercury,Q2990815,governmental accountant in France,accountant
+mercury,Q25381999,junior accountant,accountant
+mercury,Q101947581,production accountant,accountant
+mercury,Q2091370,senior accountant,accountant
+mercury,Q3141224,Astrologer,astrologer
+mercury,Q3568163,Astrologer,astrologer
+mercury,Q155647,astrologer,astrologer
+mercury,Q137374112,American author,author
+mercury,Q124514450,Cartographic author,author
+mercury,Q140305642,Western author,author
+mercury,Q141251425,antisemitic author,author
+mercury,Q482980,author,author
+mercury,Q788451,author citation in zoology,author
+mercury,Q65970010,author of,author
+mercury,Q26260814,author of mountaineering literature,author
+mercury,Q115859623,author of radio programs,author
+mercury,Q64167476,author of the accompanying notes,author
+mercury,Q788526,author reading,author
+mercury,Q128114515,dialect dictionary author,author
+mercury,Q88213697,dictionary author,author
+mercury,Q126825421,fantastique author,author
+mercury,Q5434338,fantasy author,author
+mercury,Q37495867,game book author,author
+mercury,Q116286480,guidebook author,author
+mercury,Q106675732,legal author,author
+mercury,Q10830299,literary author,author
+mercury,Q18533509,medical author,author
+mercury,Q135003685,philatelic author,author
+mercury,Q112972705,popular science author,author
+mercury,Q19839393,preface author,author
+mercury,Q108710667,speculative fiction author,author
+mercury,Q2872378,video game author,author
+mercury,Q109671585,working-class author,author
+mercury,Q62083492,young adult author,author
+mercury,Q21958560,Banker,banker
+mercury,Q37057252,Banker,banker
+mercury,Q806798,banker,banker
+mercury,Q65048785,goldsmith banker,banker
+mercury,Q2883465,investment banker,banker
+mercury,Q56224063,bookkeeper,bookkeeper
+mercury,Q43845,businessperson,businessperson
+mercury,Q15852749,Clerk in public administration,clerk
+mercury,Q17113482,Clerk of Assize,clerk
+mercury,Q48767477,Clerk of the Peace,clerk
+mercury,Q16949181,Clerk of the course,clerk
+mercury,Q5131886,Clerk of works,clerk
+mercury,Q1714315,Judial clerk,clerk
+mercury,Q6679127,Lord Clerk Register,clerk
+mercury,Q6679471,Lord Justice Clerk,clerk
+mercury,Q1660105,Real estate management clerk,clerk
+mercury,Q2306000,Social insurance clerk,clerk
+mercury,Q4800911,articled clerk,clerk
+mercury,Q27148422,attorney's clerk,clerk
+mercury,Q1875888,aviation clerk,clerk
+mercury,Q2132855,city clerk,clerk
+mercury,Q21711879,clerk,clerk
+mercury,Q51073387,clerk,clerk
+mercury,Q5131853,clerk,clerk
+mercury,Q5131856,clerk,clerk
+mercury,Q738142,clerk,clerk
+mercury,Q1631125,clerk for hotel management,clerk
+mercury,Q110595941,commercial clerk,clerk
+mercury,Q105982761,county clerk,clerk
+mercury,Q51073332,court clerk,clerk
+mercury,Q641208,court clerk,clerk
+mercury,Q918751,data entry clerk,clerk
+mercury,Q21006159,deputy clerk of the court,clerk
+mercury,Q52767585,deputy municipal clerk,clerk
+mercury,Q15810477,foreign language correspondence clerk,clerk
+mercury,Q90416334,grocery store clerk,clerk
+mercury,Q1282458,head clerk of the chancery,clerk
+mercury,Q110102488,infirmary clerk,clerk
+mercury,Q2982634,law clerk,clerk
+mercury,Q883231,law clerk,clerk
+mercury,Q119985728,lawyer's clerk,clerk
+mercury,Q43683879,library clerk,clerk
+mercury,Q113872113,mailroom clerk,clerk
+mercury,Q1483021,municipal clerk,clerk
+mercury,Q3201967,municipal clerk,clerk
+mercury,Q883211,municipal clerk,clerk
+mercury,Q115640124,parish clerk,clerk
+mercury,Q20528877,parish clerk,clerk
+mercury,Q43683892,payroll clerk,clerk
+mercury,Q17093221,postal clerk,clerk
+mercury,Q108291000,shipping clerk,clerk
+mercury,Q43683884,transport clerk,clerk
+mercury,Q58925883,Economist and lawyer nominated for key science-related EU posts,economist
+mercury,Q26252897,agricultural economist,economist
+mercury,Q96926852,behavioral economist,economist
+mercury,Q112302258,business economist,economist
+mercury,Q1860032,business economist,economist
+mercury,Q712212,chief economist,economist
+mercury,Q124843594,consumer economist,economist
+mercury,Q137549240,development economist,economist
+mercury,Q131362433,ecological economist,economist
+mercury,Q188094,economist,economist
+mercury,Q119982820,energy economist,economist
+mercury,Q96603055,engineer economist,economist
+mercury,Q125453983,environmental economist,economist
+mercury,Q56352811,financial economist,economist
+mercury,Q38383816,health economist,economist
+mercury,Q66588252,home economist,economist
+mercury,Q96926583,international economist,economist
+mercury,Q21546011,labor economist,economist
+mercury,Q59814656,mathematical economist,economist
+mercury,Q118132700,military economist,economist
+mercury,Q105572010,political economist,economist
+mercury,Q1227195,political economist,economist
+mercury,Q93403685,property economist,economist
+mercury,Q113574280,social economist,economist
+mercury,Q96440116,sports economist,economist
+mercury,Q112580640,transport economist,economist
+mercury,Q137193997,Digital editor,editor
+mercury,Q20379037,Publishing editor,editor
+mercury,Q57417212,Review Editor,editor
+mercury,Q17639852,The Editor,editor
+mercury,Q28859215,Wikidata editor,editor
+mercury,Q28020090,additional editor,editor
+mercury,Q29168399,assistant editor,editor
+mercury,Q104771169,associate editor,editor
+mercury,Q107526461,associate editor,editor
+mercury,Q75792065,associate editor,editor
+mercury,Q124707629,atlas editor,editor
+mercury,Q124634523,book editor,editor
+mercury,Q5123545,city editor,editor
+mercury,Q31275436,co-editor,editor
+mercury,Q130481652,comics editor,editor
+mercury,Q5152879,commissioning editor,editor
+mercury,Q124499478,contributing editor,editor
+mercury,Q3477303,copy editor,editor
+mercury,Q119798215,crossword editor,editor
+mercury,Q108100579,culture editor,editor
+mercury,Q62489725,deputy editor,editor
+mercury,Q104166546,deputy editor-in-chief,editor
+mercury,Q55836388,desk editor,editor
+mercury,Q5270608,dialogue editor,editor
+mercury,Q758870,digital audio editor,editor
+mercury,Q104629540,editor,editor
+mercury,Q1607826,editor,editor
+mercury,Q985394,editor,editor
+mercury,Q5338722,editor-at-large,editor
+mercury,Q589298,editor-in-chief,editor
+mercury,Q109530978,fanzine editor,editor
+mercury,Q5436767,fashion editor,editor
+mercury,Q7042855,film editor,editor
+mercury,Q18059311,final editor,editor
+mercury,Q110278348,gender editor,editor
+mercury,Q124634459,journal editor,editor
+mercury,Q2516852,literary editor,editor
+mercury,Q106568011,magazine editor,editor
+mercury,Q1068933,managing editor,editor
+mercury,Q3029423,managing editor,editor
+mercury,Q11565578,manga editor,editor
+mercury,Q28922814,memoir editor,editor
+mercury,Q100605725,music editor,editor
+mercury,Q6941738,music editor,editor
+mercury,Q17351648,newspaper editor,editor
+mercury,Q119439006,periodical editor,editor
+mercury,Q861009,picture editor,editor
+mercury,Q110063997,podcast editor,editor
+mercury,Q134455970,poetry editor,editor
+mercury,Q4992409,political editor,editor
+mercury,Q90426178,pornographic film editor,editor
+mercury,Q105421488,production editor,editor
+mercury,Q10270331,radio editor,editor
+mercury,Q123333397,research editor,editor
+mercury,Q3579163,scientific editor,editor
+mercury,Q62382038,scientific editor,editor
+mercury,Q261891,script editor,editor
+mercury,Q26206833,senior editor,editor
+mercury,Q3180462,sound editor,editor
+mercury,Q117309109,sound effects editor,editor
+mercury,Q134175192,sports editor,editor
+mercury,Q7620399,story editor,editor
+mercury,Q41486906,sub-editor,editor
+mercury,Q28002508,supervising sound editor,editor
+mercury,Q93429096,technical editor,editor
+mercury,Q23016178,television editor,editor
+mercury,Q131212,text editor,editor
+mercury,Q7927905,video editor,editor
+mercury,Q7889336,visual editor,editor
+mercury,Q10719472,web editor,editor
+mercury,Q113951854,website editor,editor
+mercury,Q109767752,weekend editor,editor
+mercury,Q135678938,Catholic educator,educator
+mercury,Q95386166,Dental educator,educator
+mercury,Q3320963,Educator monitor,educator
+mercury,Q43669325,Household educator,educator
+mercury,Q138661103,ICT Educator,educator
+mercury,Q140521153,Nursing educator,educator
+mercury,Q4685922,adult educator,educator
+mercury,Q15977927,art educator,educator
+mercury,Q11960278,child welfare educator,educator
+mercury,Q3077352,computer science educator,educator
+mercury,Q108290349,early childhood educator,educator
+mercury,Q2141193,educator,educator
+mercury,Q974144,educator,educator
+mercury,Q56312751,educator of the blind,educator
+mercury,Q113994871,educator of the visually handicapped,educator
+mercury,Q136461024,environmental educator,educator
+mercury,Q64025283,health educator,educator
+mercury,Q124545535,marketing educator,educator
+mercury,Q128303868,movement educator,educator
+mercury,Q88114244,museum educator,educator
+mercury,Q16145150,music educator,educator
+mercury,Q7070203,nurse educator,educator
+mercury,Q7135769,paraprofessional educator,educator
+mercury,Q50916064,popular educator,educator
+mercury,Q107024190,psychomotor educator,educator
+mercury,Q21507004,sex educator,educator
+mercury,Q5819949,social educator,educator
+mercury,Q99244326,social work educator,educator
+mercury,Q3580098,specialized educator,educator
+mercury,Q11639610,National Government Licensed Guide Interpreter,interpreter
+mercury,Q109250234,Samba-enredo interpreter,interpreter
+mercury,Q1513559,court interpreter,interpreter
+mercury,Q109920757,dream interpreter,interpreter
+mercury,Q102121672,interpreter,interpreter
+mercury,Q11085831,interpreter,interpreter
+mercury,Q15804622,interpreter,interpreter
+mercury,Q183065,interpreter,interpreter
+mercury,Q496969,interpreter officer,interpreter
+mercury,Q3153558,military interpreter,interpreter
+mercury,Q3153559,music interpreter,interpreter
+mercury,Q10691728,sign language interpreter,interpreter
+mercury,Q123505457,simultaneous interpreter,interpreter
+mercury,Q6296261,Journalist,journalist
+mercury,Q46503148,Journalist and professor,journalist
+mercury,Q1194623,The Journalist (1967 film),journalist
+mercury,Q34037376,arts journalist,journalist
+mercury,Q109782687,astronomy journalist,journalist
+mercury,Q24705156,broadcast journalist,journalist
+mercury,Q106412808,business journalist,journalist
+mercury,Q15986551,chess journalist,journalist
+mercury,Q90845273,citizen journalist,journalist
+mercury,Q103843159,corporate journalist,journalist
+mercury,Q126910322,crime journalist,journalist
+mercury,Q90781631,data journalist,journalist
+mercury,Q108151086,digital journalist,journalist
+mercury,Q76626407,economic journalist,journalist
+mercury,Q107235593,environmental journalist,journalist
+mercury,Q105375326,fashion journalist,journalist
+mercury,Q88214534,film journalist,journalist
+mercury,Q116764026,football journalist,journalist
+mercury,Q5394545,freelance journalist,journalist
+mercury,Q15931838,investigative journalist,journalist
+mercury,Q126326771,jazz journalist,journalist
+mercury,Q1930187,journalist,journalist
+mercury,Q24812704,media journalist,journalist
+mercury,Q88208062,medical journalist,journalist
+mercury,Q108154234,motorcycle journalist,journalist
+mercury,Q20669622,music journalist,journalist
+mercury,Q6051619,opinion journalist,journalist
+mercury,Q55979438,print journalist,journalist
+mercury,Q3765898,professional journalist,journalist
+mercury,Q3765897,pubblicista journalist,journalist
+mercury,Q24702769,radio journalist,journalist
+mercury,Q4396799,rock journalist,journalist
+mercury,Q17433421,science journalist,journalist
+mercury,Q115942192,social journalist,journalist
+mercury,Q11313148,sports journalist,journalist
+mercury,Q110857376,technology journalist,journalist
+mercury,Q22976182,television journalist,journalist
+mercury,Q115929318,travel journalist,journalist
+mercury,Q48375857,video game journalist,journalist
+mercury,Q619514,video journalist,journalist
+mercury,Q2024409,web journalist,journalist
+mercury,Q97321223,Doctor lecturer,lecturer
+mercury,Q56856589,Lecturer at Bandung Institute of Technology,lecturer
+mercury,Q139503570,adjunct lecturer,lecturer
+mercury,Q25428114,"associate lecturer (UK, Commonwealth)",lecturer
+mercury,Q106861592,guide-lecturer,lecturer
+mercury,Q63760999,honorary lecturer,lecturer
+mercury,Q10556751,lecturer,lecturer
+mercury,Q1569495,lecturer,lecturer
+mercury,Q25210979,lecturer,lecturer
+mercury,Q64461822,lecturer,lecturer
+mercury,Q9379869,lecturer,lecturer
+mercury,Q36144963,part-time lecturer,lecturer
+mercury,Q10728636,principal lecturer,lecturer
+mercury,Q1266283,senior lecturer,lecturer
+mercury,Q7456139,sessional lecturer,lecturer
+mercury,Q5398870,Esperanto lexicographer,lexicographer
+mercury,Q14972848,lexicographer,lexicographer
+mercury,Q58503221,Assistant Librarian,librarian
+mercury,Q109607229,Canadian studies librarian,librarian
+mercury,Q108001763,Electronic Resources Librarian,librarian
+mercury,Q106900783,Librarian Emeritus,librarian
+mercury,Q10655125,National librarian of Sweden,librarian
+mercury,Q12008505,academic librarian,librarian
+mercury,Q60461894,acquisitions librarian,librarian
+mercury,Q100319984,area studies librarian,librarian
+mercury,Q138461023,art librarian,librarian
+mercury,Q124745471,botanical librarian,librarian
+mercury,Q124416019,cartographic librarian,librarian
+mercury,Q10728547,chief librarian,librarian
+mercury,Q33109026,children's librarian,librarian
+mercury,Q99179030,city librarian,librarian
+mercury,Q89620573,data librarian,librarian
+mercury,Q20013489,digital librarian,librarian
+mercury,Q124463272,geospatial data visualization librarian,librarian
+mercury,Q124415795,geospatial librarian,librarian
+mercury,Q107607809,instruction librarian,librarian
+mercury,Q2135485,law librarian,librarian
+mercury,Q107606022,liaison librarian,librarian
+mercury,Q182436,librarian,librarian
+mercury,Q124415969,map librarian,librarian
+mercury,Q80490291,metadata librarian,librarian
+mercury,Q2901572,music librarian,librarian
+mercury,Q113676554,performance librarian,librarian
+mercury,Q9656885,reference librarian,librarian
+mercury,Q12312035,research librarian,librarian
+mercury,Q119081763,school librarian,librarian
+mercury,Q109607335,serials librarian,librarian
+mercury,Q122808459,special collections librarian,librarian
+mercury,Q122808443,special librarian,librarian
+mercury,Q110852558,state librarian,librarian
+mercury,Q122697060,subject librarian,librarian
+mercury,Q60462085,systems librarian,librarian
+mercury,Q68838127,university librarian,librarian
+mercury,Q111369718,Japanese linguist,linguist
+mercury,Q110834424,applied linguist,linguist
+mercury,Q15976270,computational linguist,linguist
+mercury,Q88372589,historical linguist,linguist
+mercury,Q14467526,linguist,linguist
+mercury,Q117268434,linguist of Ainu,linguist
+mercury,Q137974517,sign linguist,linguist
+mercury,Q5086847,Chartered Mathematician,mathematician
+mercury,Q109181161,amateur mathematician,mathematician
+mercury,Q102038373,applied mathematician,mathematician
+mercury,Q138497679,computational mathematician,mathematician
+mercury,Q96777281,engineering mathematician,mathematician
+mercury,Q170790,mathematician,mathematician
+mercury,Q137081089,recreational mathematician,mathematician
+mercury,Q111560341,Book merchant,merchant
+mercury,Q85874224,Merchant Navy of Spain,merchant
+mercury,Q118981632,Merchant Navy officer,merchant
+mercury,Q1737053,Merchant wholesale and foreign trade,merchant
+mercury,Q15823250,Retail Merchant,merchant
+mercury,Q135284986,Straw merchant,merchant
+mercury,Q1772052,United States Merchant Marine,merchant
+mercury,Q5135542,cloth merchant,merchant
+mercury,Q64138479,color merchant,merchant
+mercury,Q1520146,forwarding merchant,merchant
+mercury,Q108134083,furniture merchant,merchant
+mercury,Q120102556,herring merchant,merchant
+mercury,Q110374821,liquor merchant,merchant
+mercury,Q63346865,lumber merchant,merchant
+mercury,Q26487152,market merchant,merchant
+mercury,Q215536,merchant,merchant
+mercury,Q43464841,merchant banker,merchant
+mercury,Q328578,merchant in legal code,merchant
+mercury,Q865132,merchant marine,merchant
+mercury,Q125827786,merchant marine machinist,merchant
+mercury,Q118793226,merchant navy pilot practitioner,merchant
+mercury,Q1750509,merchant's assistant,merchant
+mercury,Q105436646,oil merchant,merchant
+mercury,Q114758315,paper merchant,merchant
+mercury,Q102410133,provision merchant,merchant
+mercury,Q108459114,second hand clothes merchant,merchant
+mercury,Q115679109,silk merchant,merchant
+mercury,Q66095885,textile merchant,merchant
+mercury,Q11518629,timber merchant,merchant
+mercury,Q29051324,wholesale merchant,merchant
+mercury,Q20814940,wine merchant,merchant
+mercury,Q11638475,Ōmi merchant,merchant
+mercury,Q23838068,civil law notary,notary
+mercury,Q189010,notary,notary
+mercury,Q15479268,notary public,notary
+mercury,Q17110153,notary public in the United States,notary
+mercury,Q319341,notary's assistant,notary
+mercury,Q3488528,notary's clerk,notary
+mercury,Q113897661,village notary,notary
+mercury,Q110038383,Germanic philologist,philologist
+mercury,Q16267607,classical philologist,philologist
+mercury,Q110038490,modern philologist,philologist
+mercury,Q13418253,philologist,philologist
+mercury,Q11971378,Associate Professor,professor
+mercury,Q51803609,CSIC Reseach Professor,professor
+mercury,Q65561104,Dutch extraordinary professor,professor
+mercury,Q27043416,Flemish extraordinary professor,professor
+mercury,Q27043448,Flemish professor,professor
+mercury,Q4381978,Lady Margaret's Professor of Divinity,professor
+mercury,Q104579671,OPI Reseach Professor,professor
+mercury,Q10639464,Professor,professor
+mercury,Q106910984,Professor,professor
+mercury,Q139550258,Professor,professor
+mercury,Q495871,Professor,professor
+mercury,Q875424,Professor by special appointment,professor
+mercury,Q136456929,Professor of Diplomatic History,professor
+mercury,Q86009022,Professor of Engineering,professor
+mercury,Q7248209,Professor of Greek,professor
+mercury,Q25935249,Professor with Special Responsibilities,professor
+mercury,Q2138652,Regius Professor,professor
+mercury,Q510602,Savilian Professor of Astronomy,professor
+mercury,Q19654507,Whitley Professor of Biochemistry,professor
+mercury,Q11850321,academy professor,professor
+mercury,Q131630127,acting professor,professor
+mercury,Q102162094,adjunct assistant professor,professor
+mercury,Q102162072,adjunct associate professor,professor
+mercury,Q357813,adjunct professor,professor
+mercury,Q30587619,adjunct professor in North America,professor
+mercury,Q106900888,affiliate assistant professor,professor
+mercury,Q106837137,affiliate associate professor,professor
+mercury,Q84418147,architecture professor,professor
+mercury,Q27043483,assistant professor,professor
+mercury,Q3303220,assistant professor,professor
+mercury,Q5669847,assistant professor,professor
+mercury,Q6087445,assistant professor,professor
+mercury,Q107965850,assistant research professor,professor
+mercury,Q99036937,assistant teaching professor,professor
+mercury,Q10805781,associate professor,professor
+mercury,Q11971382,associate professor,professor
+mercury,Q19973878,associate professor,professor
+mercury,Q9344260,associate professor,professor
+mercury,Q95450974,associate professor,professor
+mercury,Q105099669,associate professor emeritus,professor
+mercury,Q101566501,associate teaching professor,professor
+mercury,Q58442624,business professor,professor
+mercury,Q107379975,clinical assistant professor,professor
+mercury,Q100750442,clinical associate professor,professor
+mercury,Q123457846,clinical professor,professor
+mercury,Q3054730,college professor in Quebec,professor
+mercury,Q110993687,distinguished professor,professor
+mercury,Q121027043,distinguished professor emeritus,professor
+mercury,Q32391314,extraordinary professor,professor
+mercury,Q25339110,full professor,professor
+mercury,Q338337,honorary professor,professor
+mercury,Q63677188,law professor,professor
+mercury,Q110779725,management professor,professor
+mercury,Q81759238,music professor,professor
+mercury,Q11827483,ordinary professor,professor
+mercury,Q136844663,pediatrics professor,professor
+mercury,Q121594,professor,professor
+mercury,Q19788990,professor,professor
+mercury,Q1558050,professor at a Gymnasium,professor
+mercury,Q1240569,professor emeritus,professor
+mercury,Q110197838,professor of French literature,professor
+mercury,Q51541561,professor of German literature,professor
+mercury,Q125751670,professor of chemistry,professor
+mercury,Q130629406,professor of dentistry,professor
+mercury,Q55104588,professor of economics,professor
+mercury,Q127061126,professor of gastroenterology,professor
+mercury,Q136914460,professor of geography,professor
+mercury,Q136914265,professor of international relations,professor
+mercury,Q72271334,professor of mathematics,professor
+mercury,Q107555801,professor of medicine,professor
+mercury,Q130753776,professor of missiology,professor
+mercury,Q118541656,professor of modern literature,professor
+mercury,Q24256060,professor of music composition,professor
+mercury,Q26973007,professor of philosophy,professor
+mercury,Q53844708,professor of physics,professor
+mercury,Q5133792,professor of practice,professor
+mercury,Q26973265,professor of psychology,professor
+mercury,Q111016362,professor of surgery,professor
+mercury,Q126175579,professor of the practice,professor
+mercury,Q102083767,research assistant professor,professor
+mercury,Q102083439,research associate professor,professor
+mercury,Q3054729,research associate professor in France,professor
+mercury,Q27177003,research professor,professor
+mercury,Q106392835,secondary-school professor,professor
+mercury,Q12157495,senior professor,professor
+mercury,Q131150307,sociology professor,professor
+mercury,Q110204852,state professor,professor
+mercury,Q109362203,teaching assistant professor,professor
+mercury,Q101566783,teaching professor,professor
+mercury,Q16481664,university professor,professor
+mercury,Q70090811,visiting assistant professor,professor
+mercury,Q28692568,visiting professor,professor
+mercury,Q94084,visiting professor,professor
+mercury,Q4943300,Bookseller and Publisher,publisher
+mercury,Q96888669,academic publisher,publisher
+mercury,Q1486290,art publisher,publisher
+mercury,Q1320047,book publisher,publisher
+mercury,Q50946109,desktop publisher,publisher
+mercury,Q115793211,independent publisher,publisher
+mercury,Q56304483,magazine and newspaper publisher,publisher
+mercury,Q58302943,magazine publisher,publisher
+mercury,Q120755176,map publisher,publisher
+mercury,Q1917775,music publisher,publisher
+mercury,Q222836,music publisher,publisher
+mercury,Q3579160,newspaper publisher,publisher
+mercury,Q45400320,open-access publisher,publisher
+mercury,Q112664223,photographic publisher,publisher
+mercury,Q84473837,postcard publisher,publisher
+mercury,Q65123129,print publisher,publisher
+mercury,Q33026583,public record publisher,publisher
+mercury,Q105044823,publisher,publisher
+mercury,Q2516866,publisher,publisher
+mercury,Q2516794,publisher's bookshop,publisher
+mercury,Q7258095,publisher's reader,publisher
+mercury,Q1548890,schoolbook publisher,publisher
+mercury,Q3719391,sheet music publisher,publisher
+mercury,Q116693574,stereo card publisher,publisher
+mercury,Q1137109,video game publisher,publisher
+mercury,Q3175423,Ancient Egyptian Scribe,scribe
+mercury,Q116465820,Scribe,scribe
+mercury,Q18195716,master scribe,scribe
+mercury,Q17148782,medical scribe,scribe
+mercury,Q916292,scribe,scribe
+mercury,Q134572712,Bayesian statistician,statistician
+mercury,Q22374701,applied statistician,statistician
+mercury,Q101999676,baseball statistician,statistician
+mercury,Q116762708,environmental statistician,statistician
+mercury,Q138654670,freelance statistician,statistician
+mercury,Q124637814,health statistician,statistician
+mercury,Q97016322,mathematical statistician,statistician
+mercury,Q122308259,medical statistician,statistician
+mercury,Q94464489,social statistician,statistician
+mercury,Q2732142,statistician,statistician
+mercury,Q135268101,parliamentary stenographer,stenographer
+mercury,Q18810149,stenographer,stenographer
+mercury,Q111652242,stenographer-typist,stenographer
+mercury,Q135921547,Albanian teacher,teacher
+mercury,Q101444619,Arabic teacher,teacher
+mercury,Q51127634,Art Teacher,teacher
+mercury,Q4808960,Assistant Language Teacher,teacher
+mercury,Q117535986,Belarusian language and literature teacher,teacher
+mercury,Q98174355,Bible teacher,teacher
+mercury,Q114385716,Catalan teacher,teacher
+mercury,Q136715543,Catholic Religion teacher,teacher
+mercury,Q3406829,Certified teacher assigned to higher education,teacher
+mercury,Q101444555,Chinese teacher,teacher
+mercury,Q11448848,Class teacher,teacher
+mercury,Q137719162,Dutch language teacher,teacher
+mercury,Q101444631,English teacher,teacher
+mercury,Q106201355,Esperanto teacher,teacher
+mercury,Q101540279,Estonian teacher,teacher
+mercury,Q106317318,Finnish teacher,teacher
+mercury,Q101579361,French horn teacher,teacher
+mercury,Q101444601,French teacher,teacher
+mercury,Q101444594,German teacher,teacher
+mercury,Q101444697,Greek teacher,teacher
+mercury,Q101444684,Hebrew teacher,teacher
+mercury,Q42411603,High School Teacher,teacher
+mercury,Q130550453,Islamic teacher,teacher
+mercury,Q101444561,Italian teacher,teacher
+mercury,Q11509146,Japanese teacher,teacher
+mercury,Q101444394,Korean teacher,teacher
+mercury,Q116025406,Kurdish teacher,teacher
+mercury,Q136530384,LGBTQ+ teacher,teacher
+mercury,Q101444703,Latin teacher,teacher
+mercury,Q101540211,Latvian teacher,teacher
+mercury,Q42418493,Math Teacher,teacher
+mercury,Q106317293,Norwegian teacher,teacher
+mercury,Q118396811,Occitan teacher,teacher
+mercury,Q101539434,Polish teacher,teacher
+mercury,Q101539571,Portuguese teacher,teacher
+mercury,Q7245094,Principal teacher,teacher
+mercury,Q130550407,Qur'anic teacher,teacher
+mercury,Q93965444,"Researcher, clinician, or teacher?",teacher
+mercury,Q119139118,Romanian teacher,teacher
+mercury,Q101444477,Russian teacher,teacher
+mercury,Q29178068,Science Teacher,teacher
+mercury,Q101444664,Spanish language teacher,teacher
+mercury,Q106920363,Sunday school teacher,teacher
+mercury,Q101540627,Swedish teacher,teacher
+mercury,Q2109723,Swiss primary school teacher,teacher
+mercury,Q136343959,Sámi language teacher,teacher
+mercury,Q101539233,Thai teacher,teacher
+mercury,Q159690,The Piano Teacher,teacher
+mercury,Q96184681,Vipassana meditation teacher,teacher
+mercury,Q7939607,Voice teacher,teacher
+mercury,Q65068279,Yoga teacher training,teacher
+mercury,Q135921557,accordion teacher,teacher
+mercury,Q131630005,accounting teacher,teacher
+mercury,Q111811680,agriculture teacher,teacher
+mercury,Q20748987,ancient Greek teacher,teacher
+mercury,Q107965938,anthropology teacher,teacher
+mercury,Q108818575,architecture teacher,teacher
+mercury,Q111008089,art and drawing teacher,teacher
+mercury,Q120234397,art history teacher,teacher
+mercury,Q106542609,assistant (teacher),teacher
+mercury,Q11399819,assistant teacher,teacher
+mercury,Q108165883,astronomy teacher,teacher
+mercury,Q137562705,astrophysics teacher,teacher
+mercury,Q6407545,baccalaureate tenured teacher,teacher
+mercury,Q55092822,ballet teacher,teacher
+mercury,Q106341153,biochemistry teacher,teacher
+mercury,Q104828277,biology teacher,teacher
+mercury,Q110520887,botany teacher,teacher
+mercury,Q103958625,brass teacher,teacher
+mercury,Q114784730,business teacher,teacher
+mercury,Q101571189,cello teacher,teacher
+mercury,Q110996202,chemical engineering teacher,teacher
+mercury,Q104693589,chemistry teacher,teacher
+mercury,Q16058273,chess teacher,teacher
+mercury,Q140259552,children's literature teacher,teacher
+mercury,Q118726215,civil engineering teacher,teacher
+mercury,Q105413272,clarinet teacher,teacher
+mercury,Q135929610,classics teacher,teacher
+mercury,Q101579653,clavichord teacher,teacher
+mercury,Q112240529,communication teacher,teacher
+mercury,Q131393615,community college teacher,teacher
+mercury,Q99588331,composition teacher,teacher
+mercury,Q112978310,computer science teacher,teacher
+mercury,Q136564131,cooking teacher,teacher
+mercury,Q131438150,craft teacher,teacher
+mercury,Q15932908,cram school teacher,teacher
+mercury,Q104824316,creative writing teacher,teacher
+mercury,Q2393361,dance teacher,teacher
+mercury,Q57612045,deputy head teacher,teacher
+mercury,Q132142160,design teacher,teacher
+mercury,Q123685306,diction teacher,teacher
+mercury,Q101579679,double bass teacher,teacher
+mercury,Q2449921,drama teacher,teacher
+mercury,Q10429561,drawing teacher,teacher
+mercury,Q103936916,drum teacher,teacher
+mercury,Q99543230,early childhood teacher,teacher
+mercury,Q80027163,economics teacher,teacher
+mercury,Q110996210,engineering teacher,teacher
+mercury,Q119360530,female teacher,teacher
+mercury,Q99398821,film teacher,teacher
+mercury,Q114784736,finance teacher,teacher
+mercury,Q101571553,flute teacher,teacher
+mercury,Q10497414,folk high school teacher,teacher
+mercury,Q12311797,folkeskole teacher,teacher
+mercury,Q111811568,forestry teacher,teacher
+mercury,Q100709106,geography teacher,teacher
+mercury,Q123163947,girls' school teacher,teacher
+mercury,Q101572682,guitar teacher,teacher
+mercury,Q60583668,gymnastics teacher,teacher
+mercury,Q101579051,harp teacher,teacher
+mercury,Q1056391,head teacher,teacher
+mercury,Q58209937,history teacher,teacher
+mercury,Q100552979,history-geography teacher,teacher
+mercury,Q1744579,homeroom teacher,teacher
+mercury,Q113570484,horticulture teacher,teacher
+mercury,Q117536407,informatics teacher,teacher
+mercury,Q6094737,itinerant teacher,teacher
+mercury,Q106663866,journalism teacher,teacher
+mercury,Q11363854,junior high school teacher,teacher
+mercury,Q2229927,kindergarten teacher,teacher
+mercury,Q136850236,landscape architecture teacher,teacher
+mercury,Q30002353,language teacher,teacher
+mercury,Q63860448,law teacher,teacher
+mercury,Q1672411,liaison teacher,teacher
+mercury,Q106368265,linguistics teacher,teacher
+mercury,Q3406828,lower secondary school teacher,teacher
+mercury,Q105423080,madrasa teacher,teacher
+mercury,Q10833319,martial arts teacher,teacher
+mercury,Q29182003,mathematics teacher,teacher
+mercury,Q111015000,mechanical engineering teacher,teacher
+mercury,Q112580605,meditation teacher,teacher
+mercury,Q27905802,middle school teacher,teacher
+mercury,Q74764304,missionary teacher,teacher
+mercury,Q2675537,music teacher,teacher
+mercury,Q140421203,music theory teacher,teacher
+mercury,Q17420002,nursery school teacher,teacher
+mercury,Q101572248,oboe teacher,teacher
+mercury,Q101579667,organ teacher,teacher
+mercury,Q101573121,percussion teacher,teacher
+mercury,Q48930480,philosophy teacher,teacher
+mercury,Q117462845,photography teacher,teacher
+mercury,Q2312637,physical education teacher,teacher
+mercury,Q101445630,physics teacher,teacher
+mercury,Q17303149,piano teacher,teacher
+mercury,Q104824215,poetry teacher,teacher
+mercury,Q119417302,political science teacher,teacher
+mercury,Q131941117,preparatory school teacher,teacher
+mercury,Q3080443,preschool teacher,teacher
+mercury,Q10509151,primary school teacher,teacher
+mercury,Q108161452,psychology teacher,teacher
+mercury,Q131468757,public health teacher,teacher
+mercury,Q268190,religious education teacher,teacher
+mercury,Q16062258,remedial teacher,teacher
+mercury,Q120835041,rhetoric teacher,teacher
+mercury,Q102036457,saxophone teacher,teacher
+mercury,Q2251335,school teacher,teacher
+mercury,Q3406834,school teacher,teacher
+mercury,Q10497467,school teacher in the Swedish school system,teacher
+mercury,Q101445634,science teacher,teacher
+mercury,Q5758653,secondary school teacher,teacher
+mercury,Q51228702,seminar teacher,teacher
+mercury,Q4440868,senior teacher,teacher
+mercury,Q28923879,sign language teacher,teacher
+mercury,Q3020534,ski teacher,teacher
+mercury,Q53614577,sloyd teacher,teacher
+mercury,Q119438519,sociology teacher,teacher
+mercury,Q1030095,special education teacher,teacher
+mercury,Q11570771,special school teacher,teacher
+mercury,Q29352392,spiritual teacher,teacher
+mercury,Q112150140,statistics teacher,teacher
+mercury,Q4405230,student teacher,teacher
+mercury,Q1391411,subject teacher,teacher
+mercury,Q3301537,substitute teacher,teacher
+mercury,Q118236882,surf teacher,teacher
+mercury,Q12092838,teacher,teacher
+mercury,Q37226,teacher,teacher
+mercury,Q131717117,teacher at a Gymnasium,teacher
+mercury,Q45352519,teacher at family school,teacher
+mercury,Q1374230,teacher education,teacher
+mercury,Q99675502,teacher educator,teacher
+mercury,Q118384634,teacher in physics and chemistry,teacher
+mercury,Q1961251,teacher in training,teacher
+mercury,Q11672679,teacher of higher education,teacher
+mercury,Q81708330,teacher of literature,teacher
+mercury,Q60102223,teacher of the deaf,teacher
+mercury,Q7691196,teacher-librarian,teacher
+mercury,Q119093937,technology teacher,teacher
+mercury,Q65276598,tenure teacher of university,teacher
+mercury,Q131842506,textile teacher,teacher
+mercury,Q127327158,theology teacher,teacher
+mercury,Q103959138,trombone teacher,teacher
+mercury,Q102036213,trumpet teacher,teacher
+mercury,Q103958528,tuba teacher,teacher
+mercury,Q1622272,university teacher,teacher
+mercury,Q136850273,urban planning teacher,teacher
+mercury,Q101571325,viola teacher,teacher
+mercury,Q101570375,violin teacher,teacher
+mercury,Q829057,vocational teacher,teacher
+mercury,Q7939609,voice teacher,teacher
+mercury,Q98746691,weaving teacher,teacher
+mercury,Q116884119,woodwind teacher,teacher
+mercury,Q104248032,writing teacher,teacher
+mercury,Q125505876,zoology teacher,teacher
+mercury,Q117071506,Energy Trader,trader
+mercury,Q2934671,Forex Trader,trader
+mercury,Q2857744,Rogue trader,trader
+mercury,Q134172104,animal trader,trader
+mercury,Q20722777,arms trader,trader
+mercury,Q88192870,coin trader,trader
+mercury,Q84321415,commodity trader,trader
+mercury,Q856244,day trader,trader
+mercury,Q1295871,floor trader,trader
+mercury,Q50673671,foreign currency trader,trader
+mercury,Q30029759,fur trader,trader
+mercury,Q73299946,grain trader,trader
+mercury,Q3289685,horse trader,trader
+mercury,Q99531331,jewel trader,trader
+mercury,Q17769800,slave trader,trader
+mercury,Q108733981,spice trader,trader
+mercury,Q3997173,stock trader,trader
+mercury,Q98028403,tobacco trader,trader
+mercury,Q1424605,trader,trader
+mercury,Q3704253,trader,trader
+mercury,Q124744102,trader of naturalia,trader
+mercury,Q2556132,wine trader,trader
+mercury,Q24262584,Bible translator,translator
+mercury,Q135527223,Chinese–German translator,translator
+mercury,Q136472439,Czech–English translator,translator
+mercury,Q135215931,Czech–German translator,translator
+mercury,Q136472530,English–Czech translator,translator
+mercury,Q139814982,English–French translator,translator
+mercury,Q135214963,English–German translator,translator
+mercury,Q135215137,Finnish–German translator,translator
+mercury,Q139815143,French–English translator,translator
+mercury,Q135527453,German–Chinese translator,translator
+mercury,Q135215996,German–Czech translator,translator
+mercury,Q135215714,German–English translator,translator
+mercury,Q135215286,German–Finnish translator,translator
+mercury,Q135414808,German–Polish translator,translator
+mercury,Q135235005,German–Slovak translator,translator
+mercury,Q135228907,German–Spanish translator,translator
+mercury,Q135247904,German–Ukrainian translator,translator
+mercury,Q28709693,Iliad's translator,translator
+mercury,Q28709706,Odyssey's translator,translator
+mercury,Q135414700,Polish–German translator,translator
+mercury,Q135235236,Slovak–German translator,translator
+mercury,Q135221314,Spanish–German translator,translator
+mercury,Q135247903,Ukrainian–German translator,translator
+mercury,Q107368053,authorised translator,translator
+mercury,Q25502757,certified translator,translator
+mercury,Q135581381,dubbing translator,translator
+mercury,Q9363889,literary translator,translator
+mercury,Q16703458,sign language translator,translator
+mercury,Q135581469,song dubbing translator,translator
+mercury,Q57518732,technical translator,translator
+mercury,Q333634,translator,translator
+mercury,Q4462013,translator,translator
+mercury,Q135526657,translator from Chinese,translator
+mercury,Q135216663,translator from English,translator
+mercury,Q139815003,translator into French,translator
+mercury,Q135227438,translator into German,translator
+mercury,Q137106252,translator into Romanian,translator
+mercury,Q135228214,translator into Spanish,translator
+mercury,Q136842174,translator of Adam Mickiewicz,translator
+mercury,Q135216826,translator of William Shakespeare,translator
+mercury,Q138411995,translator of William Wordsworth,translator
+mercury,Q1790480,translator-interpreter,translator
+mercury,Q125368672,video game fan translator,translator
+mercury,Q656823,in-home tutor,tutor
+mercury,Q31837745,private tutor,tutor
+mercury,Q901222,tutor,tutor
+mercury,Q202626,Basque-language writer,writer
+mercury,Q1144264,Creative Writer,writer
+mercury,Q11818479,Earthly writer,writer
+mercury,Q25680882,Komi writer,writer
+mercury,Q1885769,Mainz resident writer,writer
+mercury,Q37244077,Writer,writer
+mercury,Q8038435,Writer,writer
+mercury,Q24040646,Writer to the Signet,writer
+mercury,Q19081220,"Writer, Clement (DNB00)",writer
+mercury,Q64934518,architecture writer,writer
+mercury,Q88190618,art writer,writer
+mercury,Q99902913,arts writer,writer
+mercury,Q124153083,aviation writer,writer
+mercury,Q4943320,book writer,writer
+mercury,Q11499012,broadcast writer,writer
+mercury,Q47491632,causerie writer,writer
+mercury,Q10543171,chamber writer,writer
+mercury,Q136213689,chick lit writer,writer
+mercury,Q4853732,children's writer,writer
+mercury,Q51174991,church writer,writer
+mercury,Q45353837,ci lyric writer,writer
+mercury,Q11914886,comedy writer,writer
+mercury,Q11892507,comics writer,writer
+mercury,Q27431213,cookbook writer,writer
+mercury,Q114867422,cricket writer,writer
+mercury,Q10297252,crime fiction writer,writer
+mercury,Q11500768,culinary writer,writer
+mercury,Q136485106,dance writer,writer
+mercury,Q22811127,devotional writer,writer
+mercury,Q61043360,dialect writer,writer
+mercury,Q127607623,dialogue writer,writer
+mercury,Q3026032,dialogue writer,writer
+mercury,Q5288294,dog writer,writer
+mercury,Q113663593,electronic literature writer,writer
+mercury,Q4421425,fairy tales writer,writer
+mercury,Q123688705,fashion writer,writer
+mercury,Q124084783,feature writer,writer
+mercury,Q108915619,feminist writer,writer
+mercury,Q3953096,fictional writer,writer
+mercury,Q59616954,freelance writer,writer
+mercury,Q100983844,garden writer,writer
+mercury,Q131322129,gay fiction writer,writer
+mercury,Q5689489,head writer,writer
+mercury,Q140310684,horror writer,writer
+mercury,Q140796385,jazz writer,writer
+mercury,Q131322448,lesbian fiction writer,writer
+mercury,Q123853167,magazine writer,writer
+mercury,Q42361191,military writer,writer
+mercury,Q28077818,music writer,writer
+mercury,Q121158238,musical writer,writer
+mercury,Q15980158,non-fiction writer,writer
+mercury,Q66622318,obituary writer,writer
+mercury,Q8010650,online writer,writer
+mercury,Q108046935,pedagogical writer,writer
+mercury,Q551835,physician writer,writer
+mercury,Q11606860,picture book writer,writer
+mercury,Q15958642,political writer,writer
+mercury,Q95612950,prayer book writer,writer
+mercury,Q138342051,professional wrestling writer,writer
+mercury,Q12144794,prose writer,writer
+mercury,Q45353897,qu writer,writer
+mercury,Q6624723,quiz show question writer,writer
+mercury,Q122657929,radio writer,writer
+mercury,Q21140478,regional writer,writer
+mercury,Q24262594,religious writer,writer
+mercury,Q10651584,revue writer,writer
+mercury,Q131322486,romance writer,writer
+mercury,Q18844224,science fiction writer,writer
+mercury,Q3745071,science writer,writer
+mercury,Q125622787,scientific writer,writer
+mercury,Q15949613,short story writer,writer
+mercury,Q108710753,speculative fiction writer,writer
+mercury,Q7596574,staff writer,writer
+mercury,Q1568338,technical writer,writer
+mercury,Q73306227,television writer,writer
+mercury,Q64167352,text writer,writer
+mercury,Q37868118,textbook writer,writer
+mercury,Q22073916,tragedy writer,writer
+mercury,Q23055218,travel guide writer,writer
+mercury,Q3579035,travel writer,writer
+mercury,Q3476620,video game writer,writer
+mercury,Q7978831,website content writer,writer
+mercury,Q3589292,women letter writer,writer
+mercury,Q12010805,writer,writer
+mercury,Q36180,writer,writer
+mercury,Q2328028,writer in residence,writer
+mercury,Q113469341,writer of feminist science fiction,writer
+mercury,Q26203955,writer of tales,writer
+venus,Q1131236,apothecary,apothecary
+venus,Q836904,brewer,brewer
+venus,Q9180224,brewer,brewer
+venus,Q2752318,cosmetologist,cosmetologist
+venus,Q1323191,costume designer,costume designer
+venus,Q4845479,grand couturier,couturier
+venus,Q23924989,distiller,distiller
+venus,Q107492796,gin distiller,distiller
+venus,Q2034021,dressmaker,dressmaker
+venus,Q11904218,druggist,druggist
+venus,Q2225700,blue dyer,dyer
+venus,Q6147194,dyer,dyer
+venus,Q11606222,indigo dyer,dyer
+venus,Q26883982,master dyer,dyer
+venus,Q120800474,silk dyer,dyer
+venus,Q134968200,Fashion Designer,fashion designer
+venus,Q3501317,fashion designer,fashion designer
+venus,Q30600342,Florist,florist
+venus,Q16064922,artificial florist,florist
+venus,Q16735601,florist,florist
+venus,Q55187,hairdresser,hairdresser
+venus,Q16513769,innkeeper,innkeeper
+venus,Q26961737,Apulian vase-painter,painter
+venus,Q21282419,Attic vase-painter,painter
+venus,Q11606844,Buddhist painter,painter
+venus,Q30144139,Corinthian vase-painter,painter
+venus,Q108336520,Cup Painter,painter
+venus,Q108187319,Dōga painter,painter
+venus,Q24692846,Etruscan vase-painter,painter
+venus,Q109498975,Formally schooled painter,painter
+venus,Q18714098,Greek vase-painter,painter
+venus,Q55474045,Lucanian vase-painter,painter
+venus,Q62075863,Margolaria (The Painter),painter
+venus,Q16485594,Nihonga painter,painter
+venus,Q3374320,Official Painter of the French Air Force,painter
+venus,Q55473843,Orientalizing vase-painter,painter
+venus,Q38875260,Paestan vase-painter,painter
+venus,Q7454939,Serjeant Painter,painter
+venus,Q55474098,Sicilian vase-painter,painter
+venus,Q67200599,Yōga painter,painter
+venus,Q10726904,academic painter,painter
+venus,Q2223407,advertising painter,painter
+venus,Q122657574,airbrush painter,painter
+venus,Q59923567,altarpiece painter,painter
+venus,Q113995639,amateur painter,painter
+venus,Q16875701,animal painter,painter
+venus,Q17505911,architectural painter,painter
+venus,Q96007538,battle painter,painter
+venus,Q15303031,black-figure vase painter,painter
+venus,Q26829128,boeotian vase-painter,painter
+venus,Q34401803,campanian vase-painter,painter
+venus,Q56312678,ceramic painter,painter
+venus,Q42814229,chalkidian vase-painter,painter
+venus,Q1743189,church painter,painter
+venus,Q59923851,coach painter,painter
+venus,Q18655536,coarse painter,painter
+venus,Q56316573,colourist painter,painter
+venus,Q58443379,construction painter,painter
+venus,Q984276,court painter,painter
+venus,Q1183704,decorative painter,painter
+venus,Q137322442,decorative painter of objects,painter
+venus,Q98537518,drapery painter,painter
+venus,Q116758333,enamel painter,painter
+venus,Q138523513,expressionist painter,painter
+venus,Q108256086,faience painter,painter
+venus,Q3068256,female painter,painter
+venus,Q122470050,figure painter,painter
+venus,Q67649782,finger painter,painter
+venus,Q59938355,flower painter,painter
+venus,Q22669155,fresco painter,painter
+venus,Q3964546,genre painter,painter
+venus,Q26971890,geometric vase-painter,painter
+venus,Q18431816,glass painter,painter
+venus,Q62663452,gouache painter,painter
+venus,Q98110743,heraldic painter,painter
+venus,Q59938438,history painter,painter
+venus,Q109083647,ink wash painter,painter
+venus,Q120345672,journeyman painter,painter
+venus,Q27469950,laconian vase-painter,painter
+venus,Q21600439,landscape painter,painter
+venus,Q3374324,letter painter,painter
+venus,Q25616553,marine painter,painter
+venus,Q28552423,matte painter,painter
+venus,Q137322495,matter painter,painter
+venus,Q28947943,miniature painter,painter
+venus,Q137993889,mosaic painter,painter
+venus,Q141103514,mouth painter,painter
+venus,Q59924426,oil painter,painter
+venus,Q1028181,painter,painter
+venus,Q288728,painter and varnisher,painter
+venus,Q59924304,panel painter,painter
+venus,Q124727029,pencil painter,painter
+venus,Q24056480,porcelain painter,painter
+venus,Q2180411,portrait painter,painter
+venus,Q59938940,pottery painter,painter
+venus,Q15303045,red-figure vase painter,painter
+venus,Q137322453,reverse glass painter,painter
+venus,Q99659060,sand painter,painter
+venus,Q135981732,ship painter,painter
+venus,Q108705678,ship portrait painter,painter
+venus,Q28806896,sign painter,painter
+venus,Q1020606,stage painter,painter
+venus,Q33124293,still life painter,painter
+venus,Q739240,street painter,painter
+venus,Q59938992,tempera painter,painter
+venus,Q112703132,theatrical painter,painter
+venus,Q107736890,tile painter,painter
+venus,Q15301511,vase painter,painter
+venus,Q55501274,vase-painter of the Gnathia style,painter
+venus,Q111327377,vehicle painter,painter
+venus,Q1392850,vehicle painter,painter
+venus,Q108404883,wallpaper painter,painter
+venus,Q41000669,white-groud vase-painter,painter
+venus,Q579021,perfumer,perfumer
+venus,Q24729786,publican,publican
+venus,Q285101,publican,publican
+venus,Q3427922,restaurateur,restaurateur
+venus,Q191493,sommelier,sommelier
+venus,Q108733981,spice trader,spice
+venus,Q17484254,bespoke tailor,tailor
+venus,Q113109,fashion tailor,tailor
+venus,Q242468,tailor,tailor
+venus,Q1757623,Textile designer (craft trades),textile
+venus,Q28823,textile,textile
+venus,Q10988986,textile art,textile
+venus,Q10694573,textile artist,textile
+venus,Q47459476,textile bleacher,textile
+venus,Q1645306,textile chemist,textile
+venus,Q23924332,textile conservator,textile
+venus,Q18611810,textile designer,textile
+venus,Q84315222,textile engineer,textile
+venus,Q51095427,textile historian,textile
+venus,Q58455065,textile industrial,textile
+venus,Q607081,textile industry,textile
+venus,Q23754015,textile manufacturer,textile
+venus,Q66095885,textile merchant,textile
+venus,Q131340079,textile print artist,textile
+venus,Q51099445,textile researcher,textile
+venus,Q84315233,textile scientist,textile
+venus,Q118978635,textile specialist,textile
+venus,Q131842506,textile teacher,textile
+venus,Q124695630,textile technician,textile
+venus,Q66035178,textile worker,textile
+venus,Q111745105,textile workshop,textile
+venus,Q64821414,art weaver,weaver
+venus,Q976015,basket weaver,weaver
+venus,Q26387816,carpet weaver,weaver
+venus,Q123690205,hand loom weaver,weaver
+venus,Q1815315,linen weaver,weaver
+venus,Q124637583,master weaver,weaver
+venus,Q100306072,mat weaver,weaver
+venus,Q122931344,raffia weaver,weaver
+venus,Q110367998,reed weaver,weaver
+venus,Q7497469,shingle weaver,weaver
+venus,Q2800373,silk weaver,weaver
+venus,Q52316029,stocking weaver,weaver
+venus,Q21117684,tapestry weaver,weaver
+venus,Q120353067,velour weaver,weaver
+venus,Q437512,weaver,weaver
+venus,Q12866845,winemaker,winemaker
+venus,Q21771805,winemaker,winemaker

@@ -1,0 +1,198 @@
+{
+  "seed": 20260918,
+  "status": "exploratory, not pre-registered",
+  "lr_window_days": 3.0,
+  "ayanamsa": {
+    "ayanamsa_2000_computed_deg": 23.849425943395516,
+    "ayanamsa_2000_published_lahiri_deg": 23.85306,
+    "difference_arcmin": -0.21804339626896763,
+    "fit_max_residual_arcsec": 19.162241410424485,
+    "ayanamsa_1850_deg": 21.75581244813572,
+    "ayanamsa_2020_deg": 24.128106733783092
+  },
+  "zodiac_structure": {
+    "sidereal_mercury": {
+      "n_crossings": 2568,
+      "n_cusp_types": 24,
+      "n_dignity_relevant": 16
+    },
+    "sidereal_venus": {
+      "n_crossings": 2191,
+      "n_cusp_types": 22,
+      "n_dignity_relevant": 11
+    },
+    "sidereal_mars": {
+      "n_crossings": 1186,
+      "n_cusp_types": 23,
+      "n_dignity_relevant": 12
+    },
+    "iau_mercury": {
+      "n_crossings": 2942,
+      "n_cusp_types": 27,
+      "n_dignity_relevant": 16
+    },
+    "iau_venus": {
+      "n_crossings": 2447,
+      "n_cusp_types": 26,
+      "n_dignity_relevant": 12
+    },
+    "iau_mars": {
+      "n_crossings": 1313,
+      "n_cusp_types": 26,
+      "n_dignity_relevant": 12
+    }
+  },
+  "ophiuchus_share_mercury_cusps": 0.11268938959013419,
+  "comparison": [
+    {
+      "planet": "mercury",
+      "zodiac": "tropical",
+      "estimator": "local_rand",
+      "estimate": 0.0001656354192095702,
+      "se": 0.0010058127338093239,
+      "ci_low": -0.0018057575390567045,
+      "ci_high": 0.002137028377475845,
+      "p": 0.8665667166416792,
+      "n_cusps": 16,
+      "n_people": 599417,
+      "equivalence_bound_or": 1.0120146511424482,
+      "tost_equivalent": true
+    },
+    {
+      "planet": "mercury",
+      "zodiac": "sidereal",
+      "estimator": "local_rand",
+      "estimate": 0.00016420252175520562,
+      "se": 0.0010010231765432312,
+      "ci_low": -0.0017978029042695274,
+      "ci_high": 0.0021262079477799385,
+      "p": 0.8725637181409296,
+      "n_cusps": 16,
+      "n_people": 604326,
+      "equivalence_bound_or": 1.011953049407314,
+      "tost_equivalent": true
+    },
+    {
+      "planet": "mercury",
+      "zodiac": "iau",
+      "estimator": "local_rand",
+      "estimate": 0.0007116141987558375,
+      "se": 0.0009354749371904264,
+      "ci_low": -0.0011219166781373984,
+      "ci_high": 0.0025451450756490733,
+      "p": 0.44177911044477763,
+      "n_cusps": 16,
+      "n_people": 706875,
+      "equivalence_bound_or": 1.0148629508446778,
+      "tost_equivalent": true
+    },
+    {
+      "planet": "venus",
+      "zodiac": "tropical",
+      "estimator": "local_rand",
+      "estimate": 0.0009756444143391187,
+      "se": 0.0005667913997559578,
+      "ci_low": -0.0001352667291825585,
+      "ci_high": 0.002086555557860796,
+      "p": 0.07446276861569215,
+      "n_cusps": 9,
+      "n_people": 380406,
+      "equivalence_bound_or": 1.063469392333734,
+      "tost_equivalent": false
+    },
+    {
+      "planet": "venus",
+      "zodiac": "sidereal",
+      "estimator": "local_rand",
+      "estimate": -0.0006566825309644632,
+      "se": 0.0005540164590729844,
+      "ci_low": -0.0017425547907475127,
+      "ci_high": 0.0004291897288185864,
+      "p": 0.24437781109445278,
+      "n_cusps": 11,
+      "n_people": 384881,
+      "equivalence_bound_or": 1.0521414445269428,
+      "tost_equivalent": false
+    },
+    {
+      "planet": "venus",
+      "zodiac": "iau",
+      "estimator": "local_rand",
+      "estimate": -0.0006445044048552645,
+      "se": 0.0005248615774977104,
+      "ci_low": -0.001673233096750777,
+      "ci_high": 0.000384224287040248,
+      "p": 0.22788605697151423,
+      "n_cusps": 12,
+      "n_people": 441874,
+      "equivalence_bound_or": 1.0501386225321143,
+      "tost_equivalent": false
+    },
+    {
+      "planet": "mars",
+      "zodiac": "tropical",
+      "estimator": "local_rand",
+      "estimate": 0.00017344079251934433,
+      "se": 0.00036414384904154555,
+      "ci_low": -0.0005402811516020849,
+      "ci_high": 0.0008871627366407737,
+      "p": 0.6471764117941029,
+      "n_cusps": 12,
+      "n_people": 208574,
+      "equivalence_bound_or": 1.1098732089689136,
+      "tost_equivalent": false
+    },
+    {
+      "planet": "mars",
+      "zodiac": "sidereal",
+      "estimator": "local_rand",
+      "estimate": -0.00043059082940843913,
+      "se": 0.00036703634098298767,
+      "ci_low": -0.001149982057735095,
+      "ci_high": 0.00028880039891821674,
+      "p": 0.2353823088455772,
+      "n_cusps": 12,
+      "n_people": 207355,
+      "equivalence_bound_or": 1.147168004743233,
+      "tost_equivalent": false
+    },
+    {
+      "planet": "mars",
+      "zodiac": "iau",
+      "estimator": "local_rand",
+      "estimate": -0.0008112901599328447,
+      "se": 0.00034328550360397637,
+      "ci_low": -0.0014841297469966384,
+      "ci_high": -0.00013845057286905106,
+      "p": 0.01999000499750125,
+      "n_cusps": 12,
+      "n_people": 244725,
+      "equivalence_bound_or": 1.1958449751522968,
+      "tost_equivalent": false
+    }
+  ],
+  "smallest_p_per_planet": [
+    {
+      "planet": "mercury",
+      "zodiac": "iau",
+      "p": 0.44177911044477763,
+      "estimate": 0.0007116141987558375
+    },
+    {
+      "planet": "venus",
+      "zodiac": "tropical",
+      "p": 0.07446276861569215,
+      "estimate": 0.0009756444143391187
+    },
+    {
+      "planet": "mars",
+      "zodiac": "iau",
+      "p": 0.01999000499750125,
+      "estimate": -0.0008112901599328447
+    }
+  ],
+  "n_tests": 9,
+  "n_significant": 1,
+  "expected_by_chance": 0.45,
+  "placebo_reference_rate": 0.11428571428571428
+}

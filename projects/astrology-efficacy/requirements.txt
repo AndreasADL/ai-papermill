@@ -1,0 +1,21 @@
+# Pinned to the versions the reported results were produced with.
+# Python 3.12.
+
+pandas==3.0.5
+numpy==2.5.1
+scipy==1.18.0
+statsmodels==0.14.6
+pingouin==0.6.1
+matplotlib==3.11.1
+seaborn==0.13.2
+pyarrow==25.0.0
+requests==2.32.3
+
+# Ephemeris (Studies 1 and 2). de440s.bsp is downloaded on first run.
+skyfield==1.55
+jplephem==2.24
+
+# Regression discontinuity (Study 1)
+rdrobust==2.0.0
+rddensity==3.0
+lpdensity==3.0.0

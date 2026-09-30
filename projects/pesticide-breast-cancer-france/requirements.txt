@@ -1,0 +1,22 @@
+pandas==3.0.5
+numpy==2.5.1
+scipy==1.18.0
+statsmodels==0.14.6
+pingouin==0.6.1
+matplotlib==3.11.1
+seaborn==0.13.2
+# Phase 3 additions (data acquisition + analysis):
+libpysal==4.15.0
+esda==2.10.0
+spreg==1.9.1        # spatial-lag/error models, triggered by the Moran's I contingency
+geopandas==1.1.4    # department polygon handling for the Queen-contiguity weights matrix
+shapely==2.1.2
+pyproj==3.7.2
+pyarrow==25.0.0      # parquet I/O for data/processed/analysis_df.parquet
+openpyxl==3.1.5      # reads the Observatoire des Territoires .xlsx downloads
+requests==2.32.3     # all raw-data downloads (00_download.py)
+tabulate==0.10.0     # pandas.DataFrame.to_markdown() used throughout results writers
+# NOTE: installing libpysal/esda/spreg pulled in a newer numpy/scipy than originally
+# pinned (numpy 2.0.0 -> 2.5.1, scipy 1.13.1 -> 1.18.0). Verified all previously-pinned
+# packages (pandas, statsmodels, pingouin, matplotlib) still import and run correctly
+# against the upgraded numpy/scipy before proceeding.

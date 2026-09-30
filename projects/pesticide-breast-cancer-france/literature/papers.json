@@ -1,0 +1,293 @@
+[
+  {
+    "title": "Associations of Serum Concentrations of Organochlorine Pesticides with Breast Cancer and Prostate Cancer in U.S. Adults",
+    "authors": ["Xu, Xiaohui", "Dailey, Amy B.", "Talbott, Evelyn O.", "et al."],
+    "year": 2009,
+    "venue": "Environmental Health Perspectives",
+    "doi": "10.1289/ehp.0900919",
+    "cited_by_count": 165,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "Background: Organochlorine (OC) pesticides are a group of environmental endocrine disruptors that may be associated with an increased risk for hormone-related cancers including cancers of the breast and prostate. However, epidemiologic evidence is limited and inconsistent. Objectives and methods: We used 1999-2004 NHANES data to examine associations between serum concentrations of OC pesticides and prostate and breast cancers. Results: Serum concentrations of beta-HCH, trans-nonachlor, and dieldrin were significantly associated with prevalent prostate cancer risk. However, there was no positive association between serum concentrations of OC pesticides and breast cancer prevalence. Conclusion: These results suggest that OC pesticide exposures may have a significant effect on cancer risk at some sites; efforts to reduce worldwide OC use are warranted."
+  },
+  {
+    "title": "Serum organochlorine pesticides and PCBs and breast cancer risk: results from a prospective analysis (USA)",
+    "authors": ["Dorgan, Joanne F.", "Brock, James W.", "Rothman, Nathaniel", "et al."],
+    "year": 1999,
+    "venue": "Cancer Causes & Control",
+    "doi": "10.1023/a:1008824131727",
+    "cited_by_count": 185,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": null,
+    "note": "Abstract not returned by API; only title/venue/authors verified via Crossref and Semantic Scholar metadata."
+  },
+  {
+    "title": "Risk of female breast cancer and serum concentrations of organochlorine pesticides and polychlorinated biphenyls: A case-control study in Tunisia",
+    "authors": ["Arrebola, Juan P.", "Belhassen, Hela", "Artacho-Cordon, Francisco", "et al."],
+    "year": 2015,
+    "venue": "Science of the Total Environment",
+    "doi": "10.1016/j.scitotenv.2015.03.045",
+    "cited_by_count": 115,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": null,
+    "note": "Abstract not returned by API; only title/venue/authors verified."
+  },
+  {
+    "title": "Pesticides and breast cancer risk: a review of DDT, DDE, and dieldrin",
+    "authors": ["Snedeker, Suzanne M."],
+    "year": 2001,
+    "venue": "Environmental Health Perspectives",
+    "doi": "10.1289/ehp.01109s135",
+    "cited_by_count": 381,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "Established risk factors for breast cancer explain breast cancer risk only partially. Organochlorine pesticides have received the most attention because of their persistence in the environment and ability to be stored in adipose tissue. Although several early descriptive studies and a cohort study identified a strong positive association between breast cancer risk and adipose or blood levels of DDT/DDE, most of the more recent case-control and nested case-control studies have not supported this association. Reviews findings and explores how exposure to different forms of DDT with varying estrogenicities, analytic methods, dietary factors, menopausal status, control populations, lactation history, estrogen receptor status, and polymorphisms may explain heterogeneity. Also discusses emerging research on serum dieldrin and breast cancer risk."
+  },
+  {
+    "title": "Organochlorine Pesticide Content of Breast Adipose Tissue From Women With Breast Cancer and Control Subjects",
+    "authors": ["Bagga, Devjit", "et al."],
+    "year": 2000,
+    "venue": "Journal of the National Cancer Institute",
+    "doi": "10.1093/jnci/92.9.750",
+    "cited_by_count": 59,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": null,
+    "note": "Abstract not returned by API; only title/venue/authors verified."
+  },
+  {
+    "title": "Organochlorine pesticides accumulation and breast cancer: A hospital-based case-control study",
+    "authors": ["He, ", "Zuo, ", "Wang, ", "et al."],
+    "year": 2017,
+    "venue": "Tumor Biology",
+    "doi": "10.1177/1010428317699114",
+    "cited_by_count": 51,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "Hospital-based case-control study in 56 patients with breast cancer and 46 patients with benign breast disease. Detected accumulation levels of several organochlorine pesticide products in breast adipose tissue using gas chromatography and examined ER/PR/HER2/Ki-67 expression. Breast cancer patients showed high accumulation of p,p'-DDE and PCB-52; logistic regression showed PCB-52 and p,p'-DDE were risk factors for breast cancer, though concentrations were not related to clinicopathologic parameters."
+  },
+  {
+    "title": "Correlation between toxic organochlorine pesticides and breast cancer",
+    "authors": ["Eldakroory, Sanaa A.", "El Morsi, Doaa", "Abdel-Rahman, Rehab H.", "et al."],
+    "year": 2017,
+    "venue": "Human & Experimental Toxicology",
+    "doi": "10.1177/0960327116685887",
+    "cited_by_count": 44,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": null,
+    "note": "Abstract not returned by API; only title/venue/authors verified."
+  },
+  {
+    "title": "Why pesticides could be a common cause of prostate and breast cancers in the French Caribbean Island, Martinique. An overview on key mechanisms of pesticide-induced cancer",
+    "authors": ["Landau-Ossondo, Muriel", "Rabia, Nadege", "Jos-Pelage, Jacqueline", "et al."],
+    "year": 2009,
+    "venue": "Biomedicine & Pharmacotherapy",
+    "doi": "10.1016/j.biopha.2009.04.043",
+    "cited_by_count": 65,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": null,
+    "note": "Abstract not returned by API; only title/venue/authors verified. French-overseas-territory (Martinique) mechanistic review, not mainland France."
+  },
+  {
+    "title": "Residential proximity to agricultural pesticide use and incidence of breast cancer in the California Teachers Study cohort",
+    "authors": ["Reynolds, Peggy", "Hurley, Susan", "Goldberg, Debbie E.", "et al."],
+    "year": 2004,
+    "venue": "Environmental Research",
+    "doi": "10.1016/j.envres.2004.03.001",
+    "cited_by_count": 81,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "Examined association between residential proximity to agricultural pesticide use and breast cancer incidence among 114,835 California Teachers Study members (1552 invasive cases, 1996-1999). Used California Pesticide Use Reporting data and GIS to estimate pesticide applications within a half-mile radius of residences. Cox models adjusted for age, race, socioeconomic status. Saw no association between residential proximity to recent agricultural pesticide use and invasive breast cancer incidence: HR for highest vs lowest exposure = 1.07 (95% CI 0.86-1.32) for probable/likely carcinogens, 1.15 (95% CI 0.90-1.48) for mammary carcinogens, 1.03 (95% CI 0.86-1.25) for endocrine disruptors. No dose-response trend detected; results unchanged when stratified by menopausal status or family history."
+  },
+  {
+    "title": "Modelling the spatialisation of pesticide sales to monitor environmental policies in France",
+    "authors": ["Martin, ", "Ramalanjaona, ", "Truche, ", "et al."],
+    "year": 2023,
+    "venue": "Journal of Cleaner Production",
+    "doi": "10.1016/j.jclepro.2023.136880",
+    "cited_by_count": 12,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": null,
+    "note": "Abstract not returned by API; only title/venue/authors verified. Directly relevant to feasibility of spatializing French pesticide sales (BNVD-type) data, but does not link to cancer outcomes."
+  },
+  {
+    "title": "CONSTANCES: a general prospective population-based cohort for occupational and environmental epidemiology: cohort profile",
+    "authors": ["Goldberg, Marcel", "Carton, Matthieu", "Descatha, Alexis", "et al."],
+    "year": 2016,
+    "venue": "Occupational and Environmental Medicine",
+    "doi": "10.1136/oemed-2016-103678",
+    "cited_by_count": 131,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "CONSTANCES is a general-purpose French cohort (target 200,000 adults aged 18-69) with a focus on occupational and environmental factors. Participants complete questionnaires and attend a health screening centre; follow-up includes yearly questionnaires, periodic HSC visits, and linkage to social/national health administrative databases, including causes of death. Data cover social/demographic characteristics, socioeconomic status, occupational/environmental exposures, residential characteristics, and health outcomes. Inclusions began end of 2012; >110,000 participants by September 2016."
+  },
+  {
+    "title": "Chlordecone exposure and risk of prostate cancer",
+    "authors": ["Multigner, Luc", "Ndong, Jean Rodrigue", "Giusti, Andre", "et al."],
+    "year": 2010,
+    "venue": "Journal of Clinical Oncology",
+    "doi": "10.1200/jco.2009.27.2153",
+    "cited_by_count": 318,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": null,
+    "note": "Abstract not returned by API; only title/venue/authors verified. Case-control study (Guadeloupe, French West Indies) of chlordecone and prostate (not breast) cancer risk; widely cited as the strongest documented pesticide-cancer association in a French territory."
+  },
+  {
+    "title": "Chlordecone exposure and adverse effects in French West Indies populations",
+    "authors": ["Multigner, Luc", "Kadhel, Philippe", "Rouget, Florence", "et al."],
+    "year": 2015,
+    "venue": "Environmental Science and Pollution Research",
+    "doi": "10.1007/s11356-015-4621-5",
+    "cited_by_count": 123,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "Chlordecone (Kepone) is an organochlorine insecticide applied intensively to banana fields in Guadeloupe and Martinique from 1973-1993. It is highly persistent in soils and the food chain. Toxicological studies show chlordecone is a reproductive/developmental toxicant, neurotoxic, carcinogenic in rodents, and an endocrine-disrupting chemical (estrogenic). The French West Indian population continues to be exposed via contaminated foodstuffs. Reviews epidemiological studies assessing chlordecone's health impact in the French West Indies (mainly prostate cancer and reproductive/developmental outcomes)."
+  },
+  {
+    "title": "Glyphosate Use and Cancer Incidence in the Agricultural Health Study",
+    "authors": ["Andreotti, Gabriella", "Koutros, Stella", "Hofmann, Jonathan N.", "et al."],
+    "year": 2018,
+    "venue": "Journal of the National Cancer Institute",
+    "doi": "10.1093/jnci/djx233",
+    "cited_by_count": 251,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "Prospective cohort of 54,251 licensed pesticide applicators (Agricultural Health Study); updated glyphosate-cancer evaluation with registry linkage through 2012/2013. Glyphosate was not statistically significantly associated with cancer at any site overall. Among the highest exposure quartile there was an increased but non-statistically-significant risk of acute myeloid leukemia (RR=2.44, 95% CI 0.94-6.32); results were similar with 5- and 20-year exposure lags. No association apparent for solid tumors or lymphoid malignancies overall."
+  },
+  {
+    "title": "Concerns over use of glyphosate-based herbicides and risks associated with exposures: a consensus statement",
+    "authors": ["Myers, John Peterson", "Antoniou, Michael N.", "Blumberg, Bruce", "et al."],
+    "year": 2016,
+    "venue": "Environmental Health",
+    "doi": "10.1186/s12940-016-0117-0",
+    "cited_by_count": 831,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "Consensus statement reviewing glyphosate-based herbicide (GBH) use, mechanisms of action, toxicity, and epidemiology. Notes IARC's 2015 classification of glyphosate as 'probably carcinogenic to humans.' Concludes GBHs are the most heavily applied herbicide worldwide with rising usage, often contaminate drinking water/precipitation/air in agricultural regions, and human exposures are rising; regulatory tolerable daily intakes are based on outdated science. Calls for new epidemiological, biomonitoring, and toxicology studies."
+  },
+  {
+    "title": "Cancer Incidence Among Pesticide Applicators Exposed to Atrazine in the Agricultural Health Study",
+    "authors": ["Rusiecki, Jennifer A.", "De Roos, Anneclaire", "Lee, Won Jin", "et al."],
+    "year": 2004,
+    "venue": "Journal of the National Cancer Institute",
+    "doi": "10.1093/jnci/djh264",
+    "cited_by_count": 176,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": null,
+    "note": "Abstract not returned by API; only title/venue/authors verified. Atrazine is a triazine herbicide with hypothesized estrogenic activity relevant to breast tissue."
+  },
+  {
+    "title": "Socioeconomic, Rural-Urban, and Racial Inequalities in US Cancer Mortality: Part I-All Cancers and Lung Cancer and Part II-Colorectal, Prostate, Breast, and Cervical Cancers",
+    "authors": ["Singh, Gopal K.", "Williams, Sarah D.", "Siahpush, Mohammad", "et al."],
+    "year": 2011,
+    "venue": "Journal of Cancer Epidemiology",
+    "doi": "10.1155/2011/107497",
+    "cited_by_count": 443,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "Analyzed socioeconomic, rural-urban, and racial inequalities in US mortality from all cancers, including breast cancer, using a deprivation index and rural-urban continuum linked to 2003-2007 county-level mortality data. More deprived and rural groups had higher cancer mortality than affluent/urban residents. Deprivation and rural-urban continuum were independently related to cancer mortality, with deprivation showing stronger impacts; socioeconomic gradients were steeper in nonmetropolitan than metropolitan areas. Disparities may reflect differences in risk factors, screening, and treatment access."
+  },
+  {
+    "title": "Spatial Autocorrelation of Cancer Incidence in Saudi Arabia",
+    "authors": ["Al-Ahmadi, Khalid", "Al-Zahrani, Ali"],
+    "year": 2013,
+    "venue": "International Journal of Environmental Research and Public Health",
+    "doi": "10.3390/ijerph10127207",
+    "cited_by_count": 82,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "Explored spatial incidence patterns of common cancers in Saudi Arabia (1998-2004 population-based records) using global Moran's I and Anselin's local Moran's I, plus OLS and geographically-weighted regression at the city level. Male lung cancer and female breast cancer exhibited positive, statistically significant global Moran's I values, indicating spatial clustering. Significant spatial associations found among several cancer pairs (e.g., breast and prostate cancer, r2 = 0.53-0.57). Findings support the need to explicitly model spatial autocorrelation in small-area cancer analyses."
+  },
+  {
+    "title": "Pesticide use in agriculture and Parkinson's disease in the AGRICAN cohort study",
+    "authors": ["Pouchieu, Camille", "Piel, Clementine", "Carles, Camille", "et al."],
+    "year": 2018,
+    "venue": "International Journal of Epidemiology",
+    "doi": "10.1093/ije/dyx225",
+    "cited_by_count": 138,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": null,
+    "note": "Abstract not returned by API; only title/venue/authors verified. French AGRICAN agricultural cohort; Parkinson's disease outcome (not cancer), included for context on individual-level French pesticide-exposure cohort methodology (PESTIMAT crop-exposure matrix)."
+  },
+  {
+    "title": "Agricultural exposures to carbamate herbicides and fungicides and central nervous system tumour incidence in the cohort AGRICAN",
+    "authors": ["Piel, Clementine", "Pouchieu, Camille", "Carles, Camille", "et al."],
+    "year": 2019,
+    "venue": "Environment International",
+    "doi": "10.1016/j.envint.2019.05.070",
+    "cited_by_count": 83,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "In the French AGRICAN cohort (181,842 participants in agriculture), assessed associations between potential exposure to carbamate herbicides/fungicides and CNS tumor incidence using the French crop-exposure matrix PESTIMAT. During 6.9 years average follow-up, 381 incident CNS tumors occurred. Increased risks observed with overall exposure to carbamate fungicides (HR=1.88, 95% CI 1.27-2.79) and, to a lesser extent, carbamate herbicides (HR=1.44, 95% CI 0.94-2.22). Positive associations with specific compounds (mancozeb, maneb, metiram; chlorpropham, propham, diallate) already suspected human carcinogens."
+  },
+  {
+    "title": "Ecological effects in multi-level studies",
+    "authors": ["Blakely, Tony A.", "Woodward, Alistair J."],
+    "year": 2000,
+    "venue": "Journal of Epidemiology and Community Health",
+    "doi": "10.1136/jech.54.5.367",
+    "cited_by_count": 407,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": null,
+    "note": "Abstract not returned by API; only title/venue/authors verified. Methodological paper distinguishing contextual and compositional (ecological) effects in multilevel study designs."
+  },
+  {
+    "title": "Spatial Epidemiology: Current Approaches and Future Challenges",
+    "authors": ["Elliott, Paul", "Wartenberg, Daniel"],
+    "year": 2004,
+    "venue": "Environmental Health Perspectives",
+    "doi": "10.1289/ehp.6735",
+    "cited_by_count": 687,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "Reviews spatial epidemiology methods: description and analysis of geographic variations in disease with respect to demographic, environmental, behavioral, socioeconomic, genetic, and infectious risk factors, focusing on small-area analyses (disease mapping, geographic correlation studies, disease clusters). Notes the large random component in small-area disease rates (addressable via Bayesian smoothing), limited sensitivity to detect high-risk areas when expected case counts are small, and the importance of potential biases/confounding, particularly by socioeconomic factors, plus data-quality issues. Discusses infrastructure such as the UK Small Area Health Statistics Unit."
+  },
+  {
+    "title": "Multilevel analyses of neighbourhood socioeconomic context and health outcomes: a critical review",
+    "authors": ["Pickett, Kate E.", "Pearl, Michelle"],
+    "year": 2001,
+    "venue": "Journal of Epidemiology and Community Health",
+    "doi": "10.1136/jech.55.2.111",
+    "cited_by_count": 2339,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": null,
+    "note": "Abstract not returned by API; only title/venue/authors verified. Widely cited critical review concluding that neighbourhood/contextual SES effects on health outcomes are generally modest relative to individual-level (compositional) factors."
+  },
+  {
+    "title": "The individualistic fallacy, ecological studies and instrumental variables: a causal interpretation",
+    "authors": ["Loney, Tom", "Nagelkerke, Nico J."],
+    "year": 2014,
+    "venue": "Emerging Themes in Epidemiology",
+    "doi": "10.1186/1742-7622-11-18",
+    "cited_by_count": 94,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "The validity of ecological studies for inferring causal relationships has been widely challenged due to the risk of the Ecological Fallacy. Reconsiders design components of ecological studies and conditions leading to spurious associations. Argues ecological associations are useful and valid when ecological exposures can be interpreted as instrumental variables (e.g., area-level environmental pollution as a cause of individual exposure). Argues the poor reputation of ecological/aggregate associations relative to individual-level associations is not always warranted, particularly when individual-level associations are confounded by unmeasured variables."
+  },
+  {
+    "title": "Biological concentrations of DDT metabolites and breast cancer risk: an updated systematic review and meta-analysis",
+    "authors": ["Ugalde-Resano, Regina", "Gamboa-Loira, Brenda", "Merida-Ortega, Angel", "et al."],
+    "year": 2024,
+    "venue": "Reviews on Environmental Health",
+    "doi": "10.1515/reveh-2024-0021",
+    "cited_by_count": 5,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "Overview of reviews plus systematic review and meta-analysis (six databases, one search engine; studies published Jan 2000-Dec 2021) synthesizing epidemiological evidence on p,p'-DDT, o,p'-DDT and p,p'-DDE biological concentrations and female breast cancer (BC). Estimated summary association measures (fixed/random effects) stratified by study characteristics. Positive summary association between p,p'-DDT and BC in prospective nested case-control studies with >10 years follow-up (sOR=1.41; 95% CI 1.06-1.88). Among retrospective (hospital/population-based) case-control studies, BC positively related to p,p'-DDE (sOR=1.15; 95% CI 1.02-1.30) and to p,p'-DDT in women with serum concentrations >100 ng/g (sOR=1.33; 95% CI 1.25-1.41). Positive association between o,p'-DDT and BC (sOR=2.24; 95% CI 2.15-2.34). Supports a positive relationship between DDT exposure and BC."
+  },
+  {
+    "title": "Environmental chemicals and breast cancer: An updated review of epidemiological literature informed by biological mechanisms",
+    "authors": ["Rodgers, Kathryn M.", "Udesky, Julia O.", "Rudel, Ruthann A.", "et al."],
+    "year": 2018,
+    "venue": "Environmental Research",
+    "doi": "10.1016/j.envres.2017.08.045",
+    "cited_by_count": 369,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "Systematic PubMed search (articles 2006-2016, 134 environmental chemicals/sources/biomarkers) updating a 2007 review of environmental chemicals as mammary gland carcinogens. Identified 158 articles; critically reviewed whether study designs captured biologically relevant exposure windows. Key studies suggested higher breast cancer risk for exposure during breast development to DDT, dioxins, PFOSA, and air pollution (risk estimates 2.14-5.0), and for occupational exposure to solvents/gasoline components (risk estimates 1.42-3.31). Most studies did not assess exposure during a biologically relevant window; few considered genetic variation (exception: Long Island Breast Cancer Study Project, PAHs x DNA-repair-gene variants). Concludes many biologically relevant chemicals remain inadequately studied in humans, partly due to challenges reconstructing decades-old exposures."
+  },
+  {
+    "title": "Medical hypothesis: xenoestrogens as preventable causes of breast cancer",
+    "authors": ["Davis, Devra Lee", "Bradlow, H. Leon", "Wolff, Mary", "et al."],
+    "year": 1993,
+    "venue": "Environmental Health Perspectives",
+    "doi": "10.1289/ehp.93101372",
+    "cited_by_count": 578,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "Established risk factors for breast cancer (including genetics) account for at best 30% of cases and can largely be linked to total lifetime exposure to bioavailable estrogens. Experimental evidence shows compounds such as some chlorinated organics, PAHs, triazine herbicides, and pharmaceuticals affect estrogen production/metabolism and act as xenoestrogens, and many also experimentally induce mammary carcinogenesis. Epidemiologic studies found breast fat/serum lipids of women with breast cancer contain significantly elevated levels of some chlorinated organics vs. controls. Hypothesizes xenoestrogens increase breast cancer risk via interaction with breast-cancer susceptibility genes; calls for epidemiologic and experimental studies to evaluate this hypothesis."
+  },
+  {
+    "title": "Increased cancer burden among pesticide applicators and others due to pesticide exposure",
+    "authors": ["Alavanja, Michael C.", "Ross, Matthew K.", "Bonner, Matthew R."],
+    "year": 2013,
+    "venue": "CA: A Cancer Journal for Clinicians",
+    "doi": "10.3322/caac.21170",
+    "cited_by_count": 357,
+    "source_api": "Crossref + Semantic Scholar",
+    "abstract": "A growing number of well-designed epidemiological and molecular studies provide substantial evidence that pesticides used in agricultural, commercial, and home/garden applications are associated with excess cancer risk among applicators and others exposed."
+  }
+]

@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets and local config
+.env
+.env.*
+.claude/settings.local.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# LaTeX build leftovers
+*.aux
+*.log
+*.out
+*.toc
+
+# Study data: large and third-party. Every file is re-downloadable by the
+# study's own scripts; sources, licences and hashes are in data/provenance.md.
+projects/*/data/raw/**
+projects/*/data/processed/**
+!projects/*/data/raw/**/
+!projects/*/data/processed/**/
+
+# ...except small, redistributable artefacts needed for verification
+!projects/astrology-efficacy/data/raw/bts/manifest.csv
+!projects/pesticide-breast-cancer-france/data/processed/analysis_df.parquet

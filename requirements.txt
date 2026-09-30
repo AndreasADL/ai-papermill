@@ -1,0 +1,12 @@
+# Core stack the agent uses for a new study (Python 3.12).
+# Each finished study pins its own full environment in projects/<slug>/requirements.txt.
+pandas==3.0.5
+numpy==2.5.1
+scipy==1.18.0
+statsmodels==0.14.6
+pingouin==0.6.1
+matplotlib==3.11.1
+seaborn==0.13.2
+pyarrow==25.0.0
+requests==2.32.3
+tabulate==0.10.0

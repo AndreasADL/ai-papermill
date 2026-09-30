@@ -1,0 +1,58 @@
+name: Erratum
+description: Report an error in a generated paper, analysis, or dataset handling
+title: "[Erratum] <study>: <one-line summary>"
+labels: ["erratum"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. Finding errors is the point of publishing these papers in the open.
+        Accepted errata are logged on the [errata board](../blob/main/ERRATA.md) with credit to you.
+  - type: dropdown
+    id: study
+    attributes:
+      label: Study
+      options:
+        - astrology-efficacy
+        - pesticide-breast-cancer-france
+        - The pipeline itself (agents / skills)
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Where
+      description: File and section, line, table or figure
+      placeholder: "paper/manuscript.md, Study 2, second paragraph"
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: What it says
+      description: Quote the claim or number as written
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Code, output, a source or a calculation that shows the problem
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity (your best guess)
+      options:
+        - "critical: changes a conclusion"
+        - "major: materially misleading or unverified"
+        - "minor: real error, conclusion unchanged"
+        - "wording"
+    validations:
+      required: true
